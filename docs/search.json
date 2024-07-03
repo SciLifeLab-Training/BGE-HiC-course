@@ -1,5 +1,38 @@
 [
   {
+    "objectID": "module3.html",
+    "href": "module3.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "module1.html",
+    "href": "module1.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NGI HiC Course",
+    "section": "",
+    "text": "This is a Quarto website. hghgh\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home",
+      "NGI HiC Course"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +40,14 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "setup",
+    "objectID": "module2.html",
+    "href": "module2.html",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
   }
 ]

@@ -3,12 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "setup"
+  title: "NGI HiC Course"
+  sidebar:
+    style: "floating"
+    background: "#F4F6F6"
+    fontsize: 30px
+    search: true
+    contents: 
+     - index.qmd 
+     - schedule.qmd
+     - module1.qmd
+     - module2.qmd
+     - module3.qmd
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      background: "#A7C947"
+      left:
+         - href: index.qmd
+           text: Home
+         - about.qmd
 
 format:
   html:

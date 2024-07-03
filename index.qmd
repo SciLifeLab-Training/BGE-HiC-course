@@ -1,7 +1,8 @@
 ---
-title: "setup"
+title: "NGI HiC Course"
 ---
 
 This is a Quarto website.
+    hghgh 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
