@@ -1,2 +1,2 @@
-# NGI-HiC-course
-Course webpage for NGI HiC course digitalization
+# BGE-HiC-course
+Course webpage for BGE HiC course digitalization
