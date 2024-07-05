@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "NGI HiC Course"
+  title: "BGE HiC Course"
   sidebar:
     style: "floating"
     background: "#F4F6F6"

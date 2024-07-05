@@ -4,8 +4,6 @@ title: "Challenging Samples"
 
 Here is the output of the challenging samples group
 
-[https://drive.google.com/file/d/1UVLQwMXjonI0qghwctB_znQqMLmzV30E/view?usp=share_link](https://drive.google.com/file/d/1UVLQwMXjonI0qghwctB_znQqMLmzV30E/view?usp=share_link)
-
-{{< video https://nextcloud.dc.scilifelab.se/f/2217297.mp4 width="400" height="300" >}}
+[Lichen sample preparation - Pamela & Giada](https://drive.google.com/file/d/1AG4RaDtF2ifnKhYhrJtUylbvV62khiUp/view?usp=share_link)
 
 

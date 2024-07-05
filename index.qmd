@@ -1,5 +1,5 @@
 ---
-title: "NGI HiC Course"
+title: "BGE HiC Course"
 ---
 
 This course took place in Uppsala from June 9-15, 2024.
