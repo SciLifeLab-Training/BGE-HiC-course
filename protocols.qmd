@@ -1,0 +1,17 @@
+---
+title: "Protocols"
+---
+
+The HiC course took place on June 9-14, 2024 at BMC Uppsala.
+
+These protocols were provided by Irene at the Sanger Institute
+
+[HiC for Vertebrates, Invertebrates, Coral, and Fungi](https://drive.google.com/file/d/1IWSJfLtdzzDYg__ycGZelJ3RjhO_g4eA/view?usp=share_link)
+
+[HiC for Plants & Protists](https://drive.google.com/file/d/1gdrND_-bPwM6ZWUu9EuUtF_9FLlpiRm8/view?usp=share_link)
+
+[HiC for Cells and Sponges](https://drive.google.com/file/d/1QSN-Omm_0FIiiM74EoLEE_iGIiWDOEQN/view?usp=share_link)
+
+[HiC for Low Input Plants](https://drive.google.com/file/d/1LSKKbilkW87hpxuhmFgZ4tOus6WNe3sy/view?usp=share_link)
+
+[HiC for Blood](https://drive.google.com/file/d/165Rdt4LdOYg67Isu7wI81UtGRzg6Ke0a/view?usp=share_link)

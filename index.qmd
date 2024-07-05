@@ -2,7 +2,11 @@
 title: "NGI HiC Course"
 ---
 
-This is a Quarto website.
-    hghgh 
+This course took place in Uppsala from June 9-15, 2024.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The current iteration of this course content is available for participants only, until review and approval.
+
+Please do not share the draft contents of this course.
+
+The footage will be post-processed and sent to all participants for approval. The video footage and captions will be made available before August 2025.
+

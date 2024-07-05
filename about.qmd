@@ -2,4 +2,24 @@
 title: "About"
 ---
 
-About this site
+The HiC course took place on June 9-14, 2024 at BMC Uppsala.
+
+#### Aim
+To deliver an open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.
+
+#### Organizers
+- Biodiversity Genomics Europe (BGE) consortium 
+- SciLifeLab
+
+#### Course leaders
+- Olga Vinnere Pettersson (BGE WP7, SciLifeLab, Uppsala University) 
+- Ave Tooming-Klunderud (BGE WP7, University of Oslo)
+
+#### Expert teachers
+- Morten Skage (BGE WP7, University of Oslo)
+- Irene Fabiola Roman Maldonado (BGE WP7, Sanger Institute) 
+- Karine Labadie (BGE WP7, Genoscope)
+- Lily Shiue (Cantata Bio)
+- Brian Kilburn (Arima Genomics)
+
+#### Participants

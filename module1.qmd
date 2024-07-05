@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Beginner Group"
 ---
 
-About this site
+Here is the output of the beginner group.

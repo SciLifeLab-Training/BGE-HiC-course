@@ -11,16 +11,20 @@ website:
     search: true
     contents: 
      - index.qmd 
-     - schedule.qmd
+     - about.qmd
+     - presentations.qmd
+     - protocols.qmd
      - module1.qmd
      - module2.qmd
      - module3.qmd
   navbar:
+      logo: "img/SciLifeLab_Logotype_NEG.png"
       background: "#A7C947"
       left:
          - href: index.qmd
            text: Home
          - about.qmd
+  favicon: "img/SciLifeLab_Logotype_NEG.png"
 
 format:
   html:

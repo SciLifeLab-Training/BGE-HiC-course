@@ -2,23 +2,34 @@
   {
     "objectID": "module3.html",
     "href": "module3.html",
-    "title": "About",
+    "title": "AssemblyLink",
     "section": "",
-    "text": "About this site",
+    "text": "Here is the output of the assemblylink group",
     "crumbs": [
       "Home",
-      "About"
+      "AssemblyLink"
     ]
   },
   {
-    "objectID": "module1.html",
-    "href": "module1.html",
-    "title": "About",
+    "objectID": "module2.html",
+    "href": "module2.html",
+    "title": "Challenging Samples",
     "section": "",
-    "text": "About this site",
+    "text": "Here is the output of the challenging samples group\nhttps://drive.google.com/file/d/1UVLQwMXjonI0qghwctB_znQqMLmzV30E/view?usp=share_link",
     "crumbs": [
       "Home",
-      "About"
+      "Challenging Samples"
+    ]
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "The HiC course took place on June 9-14, 2024 at BMC Uppsala.\nPlease note that in order to view these files you must be granted access.\n\nPresentations, Day 1\nMiles from Dovetail, presentation on AssemblyLink",
+    "crumbs": [
+      "Home",
+      "Presentations"
     ]
   },
   {
@@ -26,7 +37,7 @@
     "href": "index.html",
     "title": "NGI HiC Course",
     "section": "",
-    "text": "This is a Quarto website. hghgh\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "This course took place in Uppsala from June 9-15, 2024.\nThe current iteration of this course content is available for participants only, until review and approval.\nPlease do not share the draft contents of this course.\nThe footage will be post-processed and sent to all participants for approval. The video footage and captions will be made available before August 2025.",
     "crumbs": [
       "Home",
       "NGI HiC Course"
@@ -37,17 +48,32 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "module2.html",
-    "href": "module2.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
+    "text": "The HiC course took place on June 9-14, 2024 at BMC Uppsala.\n\nAim\nTo deliver an open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.\n\n\nOrganizers\n\nBiodiversity Genomics Europe (BGE) consortium\nSciLifeLab\n\n\n\nCourse leaders\n\nOlga Vinnere Pettersson (BGE WP7, SciLifeLab, Uppsala University)\nAve Tooming-Klunderud (BGE WP7, University of Oslo)\n\n\n\nExpert teachers\n\nMorten Skage (BGE WP7, University of Oslo)\nIrene Fabiola Roman Maldonado (BGE WP7, Sanger Institute)\nKarine Labadie (BGE WP7, Genoscope)\nLily Shiue (Cantata Bio)\nBrian Kilburn (Arima Genomics)\n\n\n\nParticipants",
     "crumbs": [
       "Home",
       "About"
+    ]
+  },
+  {
+    "objectID": "module1.html",
+    "href": "module1.html",
+    "title": "Beginner Group",
+    "section": "",
+    "text": "Here is the output of the beginner group.",
+    "crumbs": [
+      "Home",
+      "Beginner Group"
+    ]
+  },
+  {
+    "objectID": "protocols.html",
+    "href": "protocols.html",
+    "title": "Protocols",
+    "section": "",
+    "text": "The HiC course took place on June 9-14, 2024 at BMC Uppsala.\nThese protocols were provided by Irene at the Sanger Institute\nHiC for Vertebrates, Invertebrates, Coral, and Fungi\nHiC for Plants & Protists\nHiC for Cells and Sponges\nHiC for Low Input Plants\nHiC for Blood",
+    "crumbs": [
+      "Home",
+      "Protocols"
     ]
   }
 ]
