@@ -2,7 +2,7 @@
 title: "Challenging Samples"
 ---
 
-The challenging sample group consisted of Giada Ferrari (University of Oslo), Pamela Veneziano Broccia (CNAG), Tuuli Lundbäck-Larva (SciLifeLab Uppsala), and Brian Kilburn (Arima).
+The group who worked with the challenging samples consisted of Giada Ferrari (University of Oslo), Pamela Veneziano Broccia (CNAG), Tuuli Lundbäck-Larva (SciLifeLab Uppsala), and Brian Kilburn (Arima).
 
 
 ### Sample preparation
@@ -35,9 +35,9 @@ Sample processing of mosquitos. Two different sample preparations were performed
 [Mosquito sample preparation](https://drive.google.com/file/d/1gUEevdf9zuzoFJgb0fo7peU90ye_a_Ax/view?usp=share_link)
 
 #### Worm
-Discussion of sample processing - one individual crosslinked in its entirety before disruption. Runtime: 2 minutes.
+Discussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption. Runtime: 2 minutes.
 
-[Worm sample preparation](https://drive.google.com/file/d/1WZd_LSqtD5GQEIo0ap1C-vrmoXemOZv0/view?usp=share_link)
+[Worm sample preparation](https://drive.google.com/file/d/1Atfg-TFXjTQ7_1RLYotdSN6le6av_PLw/view?usp=share_link)
 
 ### Crosslinking
 The eight sample types were batch processed from the crosslinking stage onwards. 
