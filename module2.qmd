@@ -44,3 +44,7 @@ The eight sample types were batch processed from the crosslinking stage onwards.
 
 [Crosslinking video](https://drive.google.com/file/d/12tlHYHO2MtPhJ7fxcl_TNwtDkYU56lGv/view?usp=share_link)
 
+### Estimating Input
+The estimating input protocol was performed on the two lichen samples. Runtime: 22 minutes.
+
+[Estimating input video](https://drive.google.com/file/d/1b5StbVvYIWyMZv-D2udVmQZc0mZwKHqU/view?usp=share_link)
