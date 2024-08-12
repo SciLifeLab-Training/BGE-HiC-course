@@ -48,3 +48,11 @@ The eight sample types were batch processed from the crosslinking stage onwards.
 The estimating input protocol was performed on the two lichen samples. Runtime: 22 minutes.
 
 [Estimating input video](https://drive.google.com/file/d/1b5StbVvYIWyMZv-D2udVmQZc0mZwKHqU/view?usp=share_link)
+
+### HiC Reactions
+Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 60 minutes.
+
+[HiC Reactions video](https://drive.google.com/file/d/1HimIz-hKQ3SvkRFP1OtJChj2dyWf5NTG/view?usp=share_link)
+
+### QC1
+The last step for the challenging reactions is to follow the QC1 protocol.
