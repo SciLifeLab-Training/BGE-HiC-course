@@ -60,4 +60,6 @@ Follow the challenging samples group as they perform the enzymatic reactions on 
 [HiC Reactions video](https://drive.google.com/file/d/1HimIz-hKQ3SvkRFP1OtJChj2dyWf5NTG/view?usp=share_link)
 
 ### QC1
-The last step for the challenging reactions is to follow the QC1 protocol.
+The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 15 minutes.
+
+[QC1 protocol and discussion for challenging samples](https://drive.google.com/file/d/1OCmwtyh_jOkeGDe2vNHUGu6il8EcjUQR/view?usp=share_link)
