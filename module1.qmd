@@ -17,4 +17,6 @@ For the introductory group, herring and krill were used as sample types, and wer
 
 [Sample crosslinking](https://drive.google.com/file/d/100MZf7saLs_6tznCrv679ohkbyI9IIqe/view?usp=share_link)
 
+[Estimating input amount](https://drive.google.com/file/d/1a8ZyYmXpHVlH4Wukvulpofj51ZOYvdD9/view?usp=share_link)
 
+** Note: for a demonstration of steps 5-11 including QBit quantification, see the [Challenging Samples module](module1.qmd)!
