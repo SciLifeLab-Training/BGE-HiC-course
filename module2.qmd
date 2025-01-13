@@ -2,7 +2,7 @@
 title: "Challenging Samples"
 ---
 
-The group who worked with the challenging samples consisted of Giada Ferrari (University of Oslo), Pamela Veneziano Broccia (CNAG), Tuuli Lundbäck-Larva (SciLifeLab Uppsala), and Brian Kilburn (Arima).
+The group who worked with the challenging samples consisted of Giada Ferrari (University of Oslo), Pamela Veneziano Broccia (CNAG), Tuuli Lundbäck-Larva (SciLifeLab Uppsala), and Brian Kilburn (Arima). All group participants have previous experience of HiC, and contributed specialized knowledge of challenging sample preparation.
 
 ::: {.callout-caution}
 ## Note

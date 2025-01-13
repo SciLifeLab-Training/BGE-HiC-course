@@ -2,7 +2,7 @@
 title: "Introductory HiC Technique"
 ---
 
-This group consisted of researchers who were inexperienced in the HiC technique, and consisted of introductory content. It was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, IT), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Carmela Gisi (UniBari, IT).
+This group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. The group was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, IT), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Carmela Gisi (UniBari, IT).
 
 ::: {.callout-caution}
 ## Note
@@ -19,6 +19,14 @@ For the introductory group, herring and krill were used as sample types, and wer
 
 [Low input sample preparation](https://drive.google.com/file/d/1cpT7t-EEMbc6xZoPm4N_r4LqC6RlWuTG/view?usp=share_link)
 
+### Estimating Input
+
 [Estimating input amount](https://drive.google.com/file/d/1a8ZyYmXpHVlH4Wukvulpofj51ZOYvdD9/view?usp=share_link) ** Note: for a demonstration of steps 5-11 including QBit quantification, see the [Challenging Samples module](module2.qmd)!
 
+### HiC Reactions
 
+[Choosing samples for HiC reactions](https://drive.google.com/file/d/1t1gwGQv7STuMfQPp3ZHR2WmOGshgYM32/view?usp=share_link)
+
+[HiC Reactions](https://drive.google.com/file/d/1foQ3UE4qFe4GofpgEyRuKqJ0QdTYEOqS/view?usp=share_link)
+
+### QC1
