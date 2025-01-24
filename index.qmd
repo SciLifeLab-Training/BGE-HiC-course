@@ -10,3 +10,4 @@ Please do not share the draft contents of this course.
 
 The footage will be post-processed and sent to all participants for approval. The video footage and captions will be made available before August 2025.
 
+[![DOI](https://zenodo.org/badge/823634608.svg)](https://doi.org/10.5281/zenodo.14643653)

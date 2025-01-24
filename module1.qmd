@@ -13,24 +13,32 @@ This group consisted of researchers with no previous experience of the HiC techn
 ### Sample preparation
 For the introductory group, herring and krill were used as sample types, and were prepared according to regular and low input protocols. Watch the following videos for a walkthrough of sample preparation.
 
+Tissue weighing, handling tips and grinding with liquid nitrogen. Runtime: 22 minutes. 
 [Sample preparation instruction](https://drive.google.com/file/d/1HGGSo1Qqn8nTArJfSmcuNC0pcOkTC5AG/view?usp=sharing)
 
+Crosslinking the samples, and the importance of a homogenous solution. Runtime: 18 minutes.
 [Sample crosslinking](https://drive.google.com/file/d/1eQ84Cxp4T7xxSdvLRRXsPShAV3wdioJ6/view?usp=share_link)
 
+The krill samples are crosslinked first, and then tissue grinding with a power masher. Runtime: 6 minutes.
 [Low input sample preparation](https://drive.google.com/file/d/16cO2FDaGdBrpx5se-V1F5kdzFzDjqE6r/view?usp=share_link)
 
 ### Estimating Input
 
-[Estimating input amount](https://drive.google.com/file/d/1ZSya89sVHICLinjf9yVJqnDmdwDKjFk8/view?usp=share_link) ** Note: for a demonstration of steps 5-11 including QBit quantification, see the [Challenging Samples module](module2.qmd)!
+Estimating input for krill and herring samples, and how low input and standard input approaches differ. Runtime: 10 minutes.
+[Estimating input amount](https://drive.google.com/file/d/1ZSya89sVHICLinjf9yVJqnDmdwDKjFk8/view?usp=share_link) ** Note: for a demonstration of steps 5-11 including Qubit quantification, see the [Challenging Samples module](module2.qmd)!
 
 ### HiC Reactions
 
+How to approach the decision on which input amounts to proceed with. Runtime: 10 minutes.
 [Choosing samples for HiC reactions](https://drive.google.com/file/d/1jAj0BzusOHAnDUi-MzVYvStXI-uqmhY6/view?usp=share_link)
 
+Follow along as the krill and herring are processed with the Arima HiC reactions. Runtime: 27 minutes.
 [HiC Reactions](https://drive.google.com/file/d/1hKhJqlRaleM32Kmvwb13vIiLgIoIhUIq/view?usp=share_link)
 
 ### QC1
 
+Considerations for when to proceed with QC1, and how the behaviour of the sample can indicate genomic differences. Runtime: 18 minutes.
 [QC1](https://drive.google.com/file/d/1oPf56OXjM1fsFJHTTJxg2RHDtRq4OUla/view?usp=share_link)
 
+Interpretation of QC1 results and an overview of the next steps. Runtime: 6 minutes.
 [Discussion of results & next steps](https://drive.google.com/file/d/1d8MI4MnwYLrjhMpJNDBrcv5lgnRGXaKF/view?usp=share_link)
