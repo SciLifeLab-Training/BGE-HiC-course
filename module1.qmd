@@ -13,20 +13,24 @@ This group consisted of researchers with no previous experience of the HiC techn
 ### Sample preparation
 For the introductory group, herring and krill were used as sample types, and were prepared according to regular and low input protocols. Watch the following videos for a walkthrough of sample preparation.
 
-[Sample preparation instruction](https://drive.google.com/file/d/1H5CMCjFoX3aD0uOgxNJAN_mu2_h3WSuz/view?usp=share_link)
+[Sample preparation instruction](https://drive.google.com/file/d/1HGGSo1Qqn8nTArJfSmcuNC0pcOkTC5AG/view?usp=sharing)
 
-[Sample crosslinking](https://drive.google.com/file/d/100MZf7saLs_6tznCrv679ohkbyI9IIqe/view?usp=share_link)
+[Sample crosslinking](https://drive.google.com/file/d/1eQ84Cxp4T7xxSdvLRRXsPShAV3wdioJ6/view?usp=share_link)
 
-[Low input sample preparation](https://drive.google.com/file/d/1cpT7t-EEMbc6xZoPm4N_r4LqC6RlWuTG/view?usp=share_link)
+[Low input sample preparation](https://drive.google.com/file/d/16cO2FDaGdBrpx5se-V1F5kdzFzDjqE6r/view?usp=share_link)
 
 ### Estimating Input
 
-[Estimating input amount](https://drive.google.com/file/d/1a8ZyYmXpHVlH4Wukvulpofj51ZOYvdD9/view?usp=share_link) ** Note: for a demonstration of steps 5-11 including QBit quantification, see the [Challenging Samples module](module2.qmd)!
+[Estimating input amount](https://drive.google.com/file/d/1ZSya89sVHICLinjf9yVJqnDmdwDKjFk8/view?usp=share_link) ** Note: for a demonstration of steps 5-11 including QBit quantification, see the [Challenging Samples module](module2.qmd)!
 
 ### HiC Reactions
 
-[Choosing samples for HiC reactions](https://drive.google.com/file/d/1t1gwGQv7STuMfQPp3ZHR2WmOGshgYM32/view?usp=share_link)
+[Choosing samples for HiC reactions](https://drive.google.com/file/d/1jAj0BzusOHAnDUi-MzVYvStXI-uqmhY6/view?usp=share_link)
 
-[HiC Reactions](https://drive.google.com/file/d/1foQ3UE4qFe4GofpgEyRuKqJ0QdTYEOqS/view?usp=share_link)
+[HiC Reactions](https://drive.google.com/file/d/1hKhJqlRaleM32Kmvwb13vIiLgIoIhUIq/view?usp=share_link)
 
 ### QC1
+
+[QC1](https://drive.google.com/file/d/1oPf56OXjM1fsFJHTTJxg2RHDtRq4OUla/view?usp=share_link)
+
+[Discussion of results & next steps](https://drive.google.com/file/d/1d8MI4MnwYLrjhMpJNDBrcv5lgnRGXaKF/view?usp=share_link)
