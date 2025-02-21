@@ -2,4 +2,21 @@
 title: "AssemblyLink"
 ---
 
-Here is the output of the assemblylink group
+The group performing the AssemblyLink protocol (Cantata Bio) was led by Lily Shue (Cantata, US). Group participants were Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES)
+
+::: {.callout-caution}
+## Note
+- This content is currently in post-production and access is limited to participants
+- If you require access, please contact the course administrators
+:::
+
+### Sample preparation
+Sample preparation was performed by each participant according to how they usually disrupt tissues.
+
+Herring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen.
+
+[Sample preparation: Herring](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)
+
+Reindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen. 
+
+[Sample preparation: Reindeer heart](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)

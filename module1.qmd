@@ -2,7 +2,7 @@
 title: "Introductory HiC Technique"
 ---
 
-This group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. The group was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, IT), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Carmela Gisi (UniBari, IT).
+This group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. The group was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, ES), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Annunziata Deluisi (UniBari, IT).
 
 ::: {.callout-caution}
 ## Note
