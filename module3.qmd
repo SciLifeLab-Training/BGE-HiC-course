@@ -32,3 +32,9 @@ The small krill sample was disrupted in a mortar and pestle laying in liquid nit
 The moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen.
 
 [Sample preparation: Moose](https://drive.google.com/file/d/1HqSq1-1xQtSqcGBplhx9hA7anHzISHQg/view?usp=share_link)
+
+
+### Lysate preparation
+The AssemblyLink protocol was used when crosslinking and creating a lysate from the samples. Maria Gyftea demonstrates this protocol on the krill sample, including discussion with Lily.
+
+[Lysate preparation](https://drive.google.com/file/d/1IPzXI3UNz9-fk1QNUXuzLIjj-l36eN7v/view?usp=share_link)
