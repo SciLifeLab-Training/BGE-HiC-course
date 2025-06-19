@@ -35,6 +35,41 @@ The moose sample was preserved in ethanol. It was washed in PBS and disrupted in
 
 
 ### Lysate preparation
-The AssemblyLink protocol was used when crosslinking and creating a lysate from the samples. Maria Gyftea demonstrates this protocol on the krill sample, including discussion with Lily.
+The AssemblyLink protocol was used when crosslinking and creating a lysate from the samples. Maria Gyftea demonstrates this protocol on the krill sample, including discussion with Lily. Runtime: 17 minutes.
 
-[Lysate preparation](https://drive.google.com/file/d/1IPzXI3UNz9-fk1QNUXuzLIjj-l36eN7v/view?usp=share_link)
+[Sample preparation](https://drive.google.com/file/d/1IPzXI3UNz9-fk1QNUXuzLIjj-l36eN7v/view?usp=share_link)
+
+### Lysate QC
+The quality control protocol is performed on all samples in order to check if enough lysate has been created for the downstream procedures, and to determine its concentration and quality. The lysates are found to have very low yields. Runtime: 15.5 minutes.
+
+[Lysate QC](https://drive.google.com/file/d/1tQ7TDlHggBew9_GcAXTs8FwZXWx361Uf/view?usp=share_link) 7
+
+The lysates are run on the bioanalyzer to determine the quality of the lysate, and found to be underdigested. Runtime: 4 minutes.
+
+[Discussion of QC Results](https://drive.google.com/file/d/1BKO503pT0kEbuHUxI5GG7k52EniKyMg2/view?usp=share_link) 8
+
+### Proximity Ligations
+While Lily repeats the AssemblyLink Sample preparation with higher input, the herring and Reindeer spleen samples are chosen to proceed with the protocol. In the first step, chromatin capture is performed. Runtime: 4.5 minutes.
+
+[Chromatin Capture](https://drive.google.com/file/d/1jXsMxl2Su-FTb32Rby2cZuww1YFbbHFp/view?usp=share_link) 9
+
+In the next step, three ligation reactions and the crosslinking reversal reaction are performed. Runtime: 11 minutes.
+
+[Proximity Ligations](https://drive.google.com/file/d/122GR9Yz37t0CWi7f3JFwTT39o8K5X2jY/view?usp=share_link) 10
+
+Finally, the DNA is purified from the sample lysate. Runtime: 7 minutes.
+[DNA Purification](https://drive.google.com/file/d/11I5Ems-GHUMMOyrOZcm4GfIj5LsS5JwY/view?usp=share_link) 11 
+
+### Library Preparation
+In the final step of the protocol performed during the course, library preparation is performed on the herring and Reindeer spleen samples from the first round. The protocol is performed up until the Index PCR stage, at which point the samples were stored for further analysis. Runtime: 8.5 minutes.
+
+[Library Preparation](https://drive.google.com/file/d/1LdDl8GlbHg3OFDhnWmmikKaiQ4Mm8bOY/view?usp=share_link) 13 
+
+### Troubleshooting and additional attempts
+The results of increasing input are not promising, as the samples are still underdigested. The AssemblyLink group discusses possible additions and controls. Runtime: 8 minutes.
+
+[Discussion of Results 2](https://drive.google.com/file/d/1SSXPaPELuliGoKv7YFcZ9zlxOWYx4IAW/view?usp=share_link) 12
+
+A third attempt is performed on the herring and Reindeer spleen tissues with the inclusion of the cell isolation module. Additional controls and discussion is included, and we recommend watching the first sample preparation video first! Runtime: 24 minutes.
+[Sample Preparation 2](https://drive.google.com/file/d/1_XtvHhtvbKxDCo7fbsZ6QCs69Tu18Ot1/view?usp=share_link) 14
+
