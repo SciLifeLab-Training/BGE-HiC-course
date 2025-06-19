@@ -10,26 +10,26 @@ The group performing the AssemblyLink protocol (Cantata Bio) was led by Lily Shu
 - If you require access, please contact the course administrators
 :::
 
-### Sample preparation
+### Tissue preparation
 Sample preparation was performed by each participant according to how they usually disrupt tissues.
 
-Herring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen.
+Herring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen. Runtime: 8.5 minutes.
 
 [Sample preparation: Herring](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)
 
-Reindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen. 
+Reindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 10 minutes.
 
 [Sample preparation: Reindeer heart](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)
 
-Reindeer spleen tissue was disrupted in a mortar and pestle laying in liquid nitrogen.
+Reindeer spleen tissue was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 7.5 minutes.
 
 [Sample preparation: Reindeer Spleen](https://drive.google.com/file/d/1MhB2nriZTgqXvuvgqGboufWh8752m0vN/view?usp=share_link)
 
-The small krill sample was disrupted in a mortar and pestle laying in liquid nitrogen. 
+The small krill sample was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 7 minutes.
 
 [Sample preparation: Krill](https://drive.google.com/file/d/1SyE0UxsAOxvrUekNXRUDxTY9nYIk8TE5/view?usp=share_link)
 
-The moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen.
+The moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen. Runtime: 7 minutes.
 
 [Sample preparation: Moose](https://drive.google.com/file/d/1HqSq1-1xQtSqcGBplhx9hA7anHzISHQg/view?usp=share_link)
 
@@ -49,7 +49,7 @@ The lysates are run on the bioanalyzer to determine the quality of the lysate, a
 [Discussion of QC Results](https://drive.google.com/file/d/1BKO503pT0kEbuHUxI5GG7k52EniKyMg2/view?usp=share_link) 8
 
 ### Proximity Ligations
-While Lily repeats the AssemblyLink Sample preparation with higher input, the herring and Reindeer spleen samples are chosen to proceed with the protocol. In the first step, chromatin capture is performed. Runtime: 4.5 minutes.
+While Lily repeats the AssemblyLink Sample preparation with higher input, the herring and reindeer spleen samples are chosen to proceed with the protocol. In the first step, chromatin capture is performed. Runtime: 4.5 minutes.
 
 [Chromatin Capture](https://drive.google.com/file/d/1jXsMxl2Su-FTb32Rby2cZuww1YFbbHFp/view?usp=share_link) 9
 
@@ -58,10 +58,11 @@ In the next step, three ligation reactions and the crosslinking reversal reactio
 [Proximity Ligations](https://drive.google.com/file/d/122GR9Yz37t0CWi7f3JFwTT39o8K5X2jY/view?usp=share_link) 10
 
 Finally, the DNA is purified from the sample lysate. Runtime: 7 minutes.
+
 [DNA Purification](https://drive.google.com/file/d/11I5Ems-GHUMMOyrOZcm4GfIj5LsS5JwY/view?usp=share_link) 11 
 
 ### Library Preparation
-In the final step of the protocol performed during the course, library preparation is performed on the herring and Reindeer spleen samples from the first round. The protocol is performed up until the Index PCR stage, at which point the samples were stored for further analysis. Runtime: 8.5 minutes.
+In the final step of the protocol performed during the course, library preparation is performed on the herring and reindeer spleen samples from the first round. The protocol is performed up until the Index PCR stage, at which point the samples were stored for further analysis. Runtime: 8.5 minutes.
 
 [Library Preparation](https://drive.google.com/file/d/1LdDl8GlbHg3OFDhnWmmikKaiQ4Mm8bOY/view?usp=share_link) 13 
 
@@ -70,6 +71,7 @@ The results of increasing input are not promising, as the samples are still unde
 
 [Discussion of Results 2](https://drive.google.com/file/d/1SSXPaPELuliGoKv7YFcZ9zlxOWYx4IAW/view?usp=share_link) 12
 
-A third attempt is performed on the herring and Reindeer spleen tissues with the inclusion of the cell isolation module. Additional controls and discussion is included, and we recommend watching the first sample preparation video first! Runtime: 24 minutes.
+A third attempt is performed on the herring and reindeer spleen tissues with the inclusion of the cell isolation module. Additional controls and discussion is included, and we recommend watching the first sample preparation video first! Runtime: 24 minutes.
+
 [Sample Preparation 2](https://drive.google.com/file/d/1_XtvHhtvbKxDCo7fbsZ6QCs69Tu18Ot1/view?usp=share_link) 14
 
