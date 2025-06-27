@@ -2,11 +2,13 @@
 title: "BGE HiC Course"
 ---
 
-This course took place in Uppsala from June 9-15, 2024.
+#### Introduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson
 
-[Introduction to SciLifeLab from Olga Vinnere Pettersson](INTRO VID)
+<iframe src="https://drive.google.com/file/d/18NE5OAxyihAB0uH5q6IqpJASXsrORjzK/preview" width="640" height="360" allow="autoplay"></iframe>
 
 The current iteration of this course content is available for participants only, until review and approval.
+
+![Participants of the 2024 HiC Course. Photo by Hampus Pehrsson Ternström](/img/HiC-Crew.png){fig-align="center" width=600}
 
 Please do not share the draft contents of this course.
 
