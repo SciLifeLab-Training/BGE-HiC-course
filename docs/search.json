@@ -22,14 +22,14 @@
     ]
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "module1.html",
+    "href": "module1.html",
+    "title": "Introductory HiC Technique",
     "section": "",
-    "text": "The HiC course took place on June 9-14, 2024 at BMC Uppsala.\nPlease note that in order to view these files you must be granted access.\n\nPresentations, Day 1\nMiles from Dovetail, presentation on AssemblyLink",
+    "text": "This group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. The group was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, ES), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Annunziata Deluisi (UniBari, IT).\n\n\n\n\n\n\nNote\n\n\n\n\nThis content is currently in post-production and access is limited to participants\nIf you require access, please contact the course administrators\n\n\n\nIntroduction and Safety Considerations Follow Irene and Mårten as they describe an overview of how the technique is scheduled, safety considerations, and some background on how the technique is implemented and developed in a production setting.\n\nSample preparation\nFor the introductory group, herring and krill were used as sample types, and were prepared according to regular and low input protocols. Watch the following videos for a walkthrough of sample preparation.\nTissue weighing, handling tips and grinding with liquid nitrogen. Runtime: 22 minutes.\nSample preparation instruction\nCrosslinking the samples, and the importance of a homogenous solution. Runtime: 18 minutes.\nSample crosslinking\nThe krill samples are crosslinked first, and then tissue grinding with a power masher. Runtime: 6 minutes.\nLow input sample preparation\n\n\nEstimating Input\nEstimating input for krill and herring samples, and how low input and standard input approaches differ. Runtime: 10 minutes.\nEstimating input amount ** Note: for a demonstration of steps 5-11 including Qubit quantification, see the Challenging Samples module!\n\n\nHiC Reactions\nHow to approach the decision on which input amounts to proceed with. Runtime: 10 minutes.\nChoosing samples for HiC reactions\nFollow along as the krill and herring are processed with the Arima HiC reactions. Runtime: 27 minutes.\nHiC Reactions\n\n\nQC1\nConsiderations for when to proceed with QC1, and how the behaviour of the sample can indicate genomic differences. Runtime: 18 minutes.\nQC1\nInterpretation of QC1 results and an overview of the next steps. Runtime: 6 minutes.\nDiscussion of results & next steps",
     "crumbs": [
       "Home",
-      "Presentations"
+      "Introductory HiC Technique"
     ]
   },
   {
@@ -37,7 +37,7 @@
     "href": "index.html",
     "title": "BGE HiC Course",
     "section": "",
-    "text": "This course took place in Uppsala from June 9-15, 2024.\nThe current iteration of this course content is available for participants only, until review and approval.\nPlease do not share the draft contents of this course.\nThe footage will be post-processed and sent to all participants for approval. The video footage and captions will be made available before August 2025.\n\n\n\nDOI",
+    "text": "This course took place in Uppsala from June 9-15, 2024.\nIntroduction to SciLifeLab from Olga Vinnere Pettersson\nThe current iteration of this course content is available for participants only, until review and approval.\nPlease do not share the draft contents of this course.\nThe footage will be post-processed and sent to all participants for approval. The video footage and captions will be made available before August 2025.\n\n\n\nDOI",
     "crumbs": [
       "Home",
       "BGE HiC Course"
@@ -55,15 +55,11 @@
     ]
   },
   {
-    "objectID": "module1.html",
-    "href": "module1.html",
-    "title": "Introductory HiC Technique",
+    "objectID": "knowledgesharing.html",
+    "href": "knowledgesharing.html",
+    "title": "Knowledge sharing",
     "section": "",
-    "text": "This group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. The group was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, ES), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Annunziata Deluisi (UniBari, IT).\n\n\n\n\n\n\nNote\n\n\n\n\nThis content is currently in post-production and access is limited to participants\nIf you require access, please contact the course administrators\n\n\n\n\nSample preparation\nFor the introductory group, herring and krill were used as sample types, and were prepared according to regular and low input protocols. Watch the following videos for a walkthrough of sample preparation.\nTissue weighing, handling tips and grinding with liquid nitrogen. Runtime: 22 minutes.\nSample preparation instruction\nCrosslinking the samples, and the importance of a homogenous solution. Runtime: 18 minutes.\nSample crosslinking\nThe krill samples are crosslinked first, and then tissue grinding with a power masher. Runtime: 6 minutes.\nLow input sample preparation\n\n\nEstimating Input\nEstimating input for krill and herring samples, and how low input and standard input approaches differ. Runtime: 10 minutes.\nEstimating input amount ** Note: for a demonstration of steps 5-11 including Qubit quantification, see the Challenging Samples module!\n\n\nHiC Reactions\nHow to approach the decision on which input amounts to proceed with. Runtime: 10 minutes.\nChoosing samples for HiC reactions\nFollow along as the krill and herring are processed with the Arima HiC reactions. Runtime: 27 minutes.\nHiC Reactions\n\n\nQC1\nConsiderations for when to proceed with QC1, and how the behaviour of the sample can indicate genomic differences. Runtime: 18 minutes.\nQC1\nInterpretation of QC1 results and an overview of the next steps. Runtime: 6 minutes.\nDiscussion of results & next steps",
-    "crumbs": [
-      "Home",
-      "Introductory HiC Technique"
-    ]
+    "text": "The HiC course took place on June 9-14, 2024 at BMC Uppsala.\nPlease note that in order to view these files you must be granted access.\n\nKnowledge sharing from the lab\nAt the end of the lab period, the AssemblyLink, Challenging Samples, and Introductory HiC groups gave an overview of their work, including discussion of the outcome.\nGiada Ferrari, presenting the Challenging Samples lab results\nIrene Fabiola Roman Maldonado, presenting the Introductory HiC lab results\nLily Shiue, presenting the AssemblyLink HiC lab results\n\n\nKnowledge sharing between institutions\n\nProtocol differences\nA representative from each institution presented the specifics of their sample handling\nKarine Labadie, Genoscope, presenting tissue grinding\nGiada Ferrari, University of Oslo, presenting nuclei isolation used with plants\n\n\nChallenging Samples\nEach institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes.\nFernando Cruz, CNAG, presenting a bioinformatic view of HiC QC\nMårten Skage, University of Oslo, presenting results from Monogyna spp.\nMårten Skage, University of Oslo, presenting results from AssemblyLink on Fish Blood\nKarine Labadie, Genoscope, presenting Plant and Lichen samples\nIrene Fabiola Roman Maldonado, Sanger Institute, presenting plant and lichen protocols\nLily Shiue, Dovetail, presenting AssemblyLink results with Meara and Algae\nMårten Skage, University of Oslo, presents how to define and approach challenging samples\nBrian Kilburn, Arima, presents on coral and sponge samples\n\n\n\nPresentations on Arima & Dovetail HiC protocols\nThe companies producing and validating the protocols and chemistries used in the course presented about their kits.\nMiles Collier, Dovetail, presents on AssemblyLink\nBrian Kilburn, Arima, presents on the Arima HiC protocol"
   },
   {
     "objectID": "protocols.html",

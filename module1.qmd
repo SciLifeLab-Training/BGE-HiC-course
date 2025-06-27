@@ -10,6 +10,9 @@ This group consisted of researchers with no previous experience of the HiC techn
 - If you require access, please contact the course administrators
 :::
 
+[Introduction and Safety Considerations](SAFETY VID)
+Follow Irene and Mårten as they describe an overview of how the technique is scheduled, safety considerations, and some background on how the technique is implemented and developed in a production setting.
+
 ### Sample preparation
 For the introductory group, herring and krill were used as sample types, and were prepared according to regular and low input protocols. Watch the following videos for a walkthrough of sample preparation.
 
