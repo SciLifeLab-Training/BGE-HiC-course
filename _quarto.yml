@@ -3,28 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "BGE HiC Course"
+  title: "Biodiversity Genomics Europe HiC Course"
+  favicon: img/favicon-32x32.png
   sidebar:
     style: "floating"
     background: "#F4F6F6"
-    fontsize: 30px
+    fontsize: 35px
     search: true
     contents: 
      - index.qmd 
      - about.qmd
-     - presentations.qmd
+     - instructors.qmd
+     - "<details><summary>Sessions</summary>
+          <ul>
+            <li><a href='module1.qmd'>Introductory HiC Technique</a></li>
+            <li><a href='module2.qmd'>Challenging Sample Technique</a></li>
+            <li><a href='module3.qmd'>AssemblyLink Technique</a></li>
+            <li><a href='knowledgesharing.qmd'>Knowledge Sharing</a></li>
+          </ul>
+        </details>"
      - protocols.qmd
-     - module1.qmd
-     - module2.qmd
-     - module3.qmd
+
   navbar:
       logo: "img/SciLifeLab_Logotype_NEG.png"
       background: "#A7C947"
-      left:
-         - href: index.qmd
-           text: Home
-         - about.qmd
-  favicon: "img/SciLifeLab_Logotype_NEG.png"
 
 format:
   html:

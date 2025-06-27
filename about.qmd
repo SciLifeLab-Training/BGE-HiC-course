@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "About the Course"
 ---
 
 The HiC course took place on June 9-14, 2024 at BMC Uppsala.
 
 #### Aim
-To deliver an open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.
+To deliver open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.
 
 #### Organizers
 - Biodiversity Genomics Europe (BGE) consortium 
