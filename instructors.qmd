@@ -2,4 +2,45 @@
 title: "Course Instructors"
 ---
 
-Course instructors were assembled from five different institutions 
+This course was made possible by the assembled scientific expertise from five institutions across Europe and the UK, as well as two industrial partners.
+
+#### Morten Skage 
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/images-5.png" alt="" width="80"></td>
+    <td style="width: 80%;">Morten is Head Engineer at the Norwegian Sequencing Centre. He teaches the Introductory HiC course.</td>
+</tr>
+</table>
+
+#### Irene Fabiola Roman Maldonado
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/sanger.jpg" alt="" width="80"></td>
+    <td style="width: 80%;">Irene is an Advanced Research Assistant at the Sanger Institute. She teaches the Introductory HiC Course.</td>
+</tr>
+</table>
+
+#### Karine Labadie 
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/logo_Genoscope_ORIG_344.gif" alt="" width="80"></td>
+    <td style="width: 80%;">Karine is a Researcher and Production Manager at Genoscope. She assists with the Introductory HiC course, and provides scientific input to the other course streams.</td>
+</tr>
+</table>
+
+# Course Coordinators
+#### Olga Vinnere Pettersson
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/SciLifeLab_Logotype_Green_POS.png" alt="" width="80"></td>
+    <td style="width: 80%;">Olga is Scientific Lead for the SciLifeLab Planetary Biology Capability. She is the course organizer and provides scientific expertise on HiC throughout all course streams.</td>
+</tr>
+</table>
+
+#### Ave Tooming-Klunderud
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/images-5.png" alt="" width="80"></td>
+    <td style="width: 80%;">Ave is Senior Engineer at the Centre for Ecological and Evolutionary Synthesis and Norwegian Sequencing Centre. While she doesn't appear on film, Ave was instrumental in producing this HiC course.</td>
+</tr>
+</table>

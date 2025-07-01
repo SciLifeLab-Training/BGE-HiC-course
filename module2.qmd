@@ -1,65 +1,54 @@
 ---
-title: "Challenging Samples"
+title: "Challenging Samples HiC Course"
 ---
 
-The group who worked with the challenging samples consisted of Giada Ferrari (University of Oslo, NO), Pamela Veneziano Broccia (CNAG, ES), Tuuli Lundbäck-Larva (SciLifeLab, SE), and Brian Kilburn (Arima, US). All group participants have previous experience of HiC, and contributed specialized knowledge of challenging sample preparation.
-
-::: {.callout-caution}
-## Note
-- The challenging samples content is currently in post-production and access is limited to participants
-- If you require access, please contact the course administrators
+::: {.callout-important}
+This course stream is currently in post-production and will be available August 2025
 :::
 
+![](/img/ChallengingGroup.png){fig-align="center" width=400 fig-alt="Photo by Hampus Pehrsson Ternström"}
+
+In this course stream, expert users Giada Ferrari (University of Oslo, NO), Pamela Veneziano Broccia (CNAG, ES), and Tuuli Lundbäck-Larva (SciLifeLab, SE) worked together with expert instructor Brian Kilburn (Arima, US) to perform the Arima HiC protocol on challenging samples. As all group participants are experts in HiC, this group all contributed specialized knowledge of challenging sample preparation.
+
+::: {.callout-tip}
+## Note
+- The course material is organized from this group's sample preparation to results discussion
+- Skip to the full course playlist section to watch the full Challenging Samples course!
+:::
+
+## Challenging Sample Material
 ### Sample preparation
 
 Eight challenging sample types were processed for Hi-C. Watch the following videos for a walkthrough of each sample up to the crosslinking step.
 
-#### Lichens
-Two lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle. Runtime: 30 minutes.
+| Preparation | Info | Runtime |
+|------|------| ------|
+| [Lichen](https://drive.google.com/file/d/10vvxCbuUXYkl43Tt9D483SS9isQ-9441/view?usp=share_link) | Two lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle. | 30min |
+| [Flustra](https://drive.google.com/file/d/1v8DSWBrhU8NNgiDm-3rYNXDbO0l33MFR/view?usp=share_link) | The Flustra sample was ground using liquid nitrogen as for the Lichen samples | 2.5min |
+| [Sponge](https://drive.google.com/file/d/14DmAF65XEfB6XBdYzaPNCelA5CfpvNSZ/view?usp=share_link) | A sponge was processed using the "squeeze method"; a gentle extraction of nuclei from the sponge skeleton | 30min |
+| [Algae (slime)](https://drive.google.com/file/d/1uL4Q_-f0gJJGnWvizKlr6YFjKHVIhUP9/view?usp=share_link) | Processing of an algae that produces an extracellular matrix. | 5min |
+| [Mosquito](https://drive.google.com/file/d/1gUEevdf9zuzoFJgb0fo7peU90ye_a_Ax/view?usp=share_link) | Sample processing of mosquitos. Two different sample preparations were performed. | 15min |
+| [Worm](https://drive.google.com/file/d/1Atfg-TFXjTQ7_1RLYotdSN6le6av_PLw/view?usp=share_link) | Discussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption. | 2min |
+: {tbl-colwidths="[20,70,10]"}
 
-[Lichen sample preparation](https://drive.google.com/file/d/10vvxCbuUXYkl43Tt9D483SS9isQ-9441/view?usp=share_link)
+::: callout-note
+Sample preparation for herring, krill, moose, reindeer spleen and heart can be found in the [AssemblyLink Sample Preparation](module3.qmd).
+:::
 
-#### Flustra 
-The Flustra sample was ground using liquid nitrogen as for the Lichen samples. Runtime: 2.5 minutes.
-
-[Flustra sample preparation](https://drive.google.com/file/d/1v8DSWBrhU8NNgiDm-3rYNXDbO0l33MFR/view?usp=share_link)
-
-#### Sponge
-A sponge was processed using the "squeeze method"; a gentle extraction of nuclei from the sponge skeleton. Runtime: 30 minutes.
-
-[Sponge sample preparation](https://drive.google.com/file/d/14DmAF65XEfB6XBdYzaPNCelA5CfpvNSZ/view?usp=share_link)
-
-#### Algae (slime)
-Processing of an algae that produces an extracellular matrix. Runtime: 5 minutes.
-
-[Algae (slime) sample preparation](https://drive.google.com/file/d/1uL4Q_-f0gJJGnWvizKlr6YFjKHVIhUP9/view?usp=share_link)
-
-#### Mosquitos
-Sample processing of mosquitos. Two different sample preparations were performed. Runtime: 15 minutes.
-
-[Mosquito sample preparation](https://drive.google.com/file/d/1gUEevdf9zuzoFJgb0fo7peU90ye_a_Ax/view?usp=share_link)
-
-#### Worm
-Discussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption. Runtime: 2 minutes.
-
-[Worm sample preparation](https://drive.google.com/file/d/1Atfg-TFXjTQ7_1RLYotdSN6le6av_PLw/view?usp=share_link)
-
-### Crosslinking
-The eight sample types were batch processed from the crosslinking stage onwards. Includes discussion on handling insects, low input samples, recommended equipment, and sticky pellets. Runtime: 26 minutes.
-
-[Crosslinking video](https://drive.google.com/file/d/12tlHYHO2MtPhJ7fxcl_TNwtDkYU56lGv/view?usp=share_link)
+[Sample crosslinking video](https://drive.google.com/file/d/12tlHYHO2MtPhJ7fxcl_TNwtDkYU56lGv/view?usp=share_link) - The eight sample types were batch processed from the crosslinking stage onwards. Includes discussion on handling insects, low input samples, recommended equipment, and sticky pellets. Runtime: 26 minutes.
 
 ### Estimating Input
-The estimating input protocol was performed on the two lichen samples. Runtime: 22 minutes.
-
-[Estimating input video](https://drive.google.com/file/d/1b5StbVvYIWyMZv-D2udVmQZc0mZwKHqU/view?usp=share_link)
+[Estimating input video](https://drive.google.com/file/d/1b5StbVvYIWyMZv-D2udVmQZc0mZwKHqU/view?usp=share_link) - The estimating input protocol was performed on the two lichen samples. Runtime: 22 minutes.
 
 ### HiC Reactions
-Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 60 minutes.
-
-[HiC Reactions video](https://drive.google.com/file/d/1HimIz-hKQ3SvkRFP1OtJChj2dyWf5NTG/view?usp=share_link)
+[HiC Reactions video](https://drive.google.com/file/d/1HimIz-hKQ3SvkRFP1OtJChj2dyWf5NTG/view?usp=share_link) - Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 60 minutes.
 
 ### QC1
-The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 15 minutes.
+[QC1 protocol and discussion for challenging samples](https://drive.google.com/file/d/1OCmwtyh_jOkeGDe2vNHUGu6il8EcjUQR/view?usp=share_link) - The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 15 minutes.
 
-[QC1 protocol and discussion for challenging samples](https://drive.google.com/file/d/1OCmwtyh_jOkeGDe2vNHUGu6il8EcjUQR/view?usp=share_link)
+[Giada Ferrari, presenting the Challenging Samples lab results](https://drive.google.com/file/d/1dHuQE5OKyNwxxJyllBlS-A9CbswXbNPK/view?usp=share_link)
+
+<!--
+## Full Challenging Samples HiC Playlist
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=w4taKJ-B-_8ywFLD&amp;list=PL1nnHOyxN_WdqnzLqbmWJz_i0f2anT9cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->

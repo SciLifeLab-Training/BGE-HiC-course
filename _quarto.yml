@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Biodiversity Genomics Europe HiC Course"
+  title: "Biodiversity Genomics Europe & SciLifeLab Hi-C Course"
   favicon: img/favicon-32x32.png
   sidebar:
     style: "floating"
@@ -13,16 +13,14 @@ website:
     contents: 
      - index.qmd 
      - about.qmd
-     - instructors.qmd
-     - "<details><summary>Sessions</summary>
-          <ul>
-            <li><a href='module1.qmd'>Introductory HiC Technique</a></li>
-            <li><a href='module2.qmd'>Challenging Sample Technique</a></li>
-            <li><a href='module3.qmd'>AssemblyLink Technique</a></li>
-            <li><a href='knowledgesharing.qmd'>Knowledge Sharing</a></li>
-          </ul>
+     - "<details><summary><a href='module1.qmd'>Introductory HiC Course</a></summary>
+        </details>"
+     - "<details><summary><a href='module2.qmd'>Challenging Samples Course</a></summary>
+        </details>"
+     - "<details><summary><a href='module3.qmd'>AssemblyLink HiC Course</a></summary>
         </details>"
      - protocols.qmd
+     - instructors.qmd
 
   navbar:
       logo: "img/SciLifeLab_Logotype_NEG.png"

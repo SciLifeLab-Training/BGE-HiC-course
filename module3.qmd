@@ -1,13 +1,18 @@
 ---
 title: "AssemblyLink"
 ---
+::: {.callout-important}
+This course stream is currently in post-production and will be available August 2025
+:::
 
-The group performing the AssemblyLink protocol (Cantata Bio) was led by Lily Shue (Cantata, US). Group participants were Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES)
+![](/img/AssemblyLinkGroup.png){fig-align="center" width=400 fig-alt="Photo by Hampus Pehrsson Ternström"}
 
-::: {.callout-caution}
+In this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.
+
+::: {.callout-tip}
 ## Note
-- This content is currently in post-production and access is limited to participants
-- If you require access, please contact the course administrators
+- The course material is organized from this group's sample preparation to results discussion to demonstrate the protocol, with extra videos of troubleshooting.
+- Skip to the full course playlist section to watch the full AssemblyLink course!
 :::
 
 ### Tissue preparation
@@ -75,3 +80,9 @@ A third attempt is performed on the herring and reindeer spleen tissues with the
 
 [Sample Preparation 2](https://drive.google.com/file/d/1_XtvHhtvbKxDCo7fbsZ6QCs69Tu18Ot1/view?usp=share_link) 14
 
+[Lily Shiue, presenting the AssemblyLink HiC lab results](https://drive.google.com/file/d/10Q4LVJL4i_7roPd0vKI6RoVxLuslCi1w/view?usp=share_link)
+<!--
+[Take the quiz!](quiz.qmd){.btn-scilife .btn role="button"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=w4taKJ-B-_8ywFLD&amp;list=PL1nnHOyxN_WdqnzLqbmWJz_i0f2anT9cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->

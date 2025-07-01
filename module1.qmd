@@ -1,55 +1,58 @@
 ---
-title: "Introductory HiC Technique"
+title: "Introductory HiC Course"
 ---
 
-This group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. The group was led by Mårten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK). Group participants were Fernando Cruz Rodriguez (CNAG, ES), Karine Labadie (Genoscope, FR), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Annunziata Deluisi (UniBari, IT).
+![](/img/IntroductoryGroup.png){fig-align="center" width=400 fig-alt="Photo by Hampus Pehrsson Ternström"}
 
-::: {.callout-caution}
+The introductory group consisted of researchers with no previous experience of the HiC technique, and the course videos contain introductory content. 
+This group was led by Morten Skage (University of Oslo, NO) and Irene Fabiola Roman Maldonado (Sanger Institute, UK), assisted by Karine Labadie (Genoscope, FR). Group participants were Fernando Cruz Rodriguez (CNAG, ES), Graeme Oatley (Sanger Institute, UK), Simona Buonanno (UniBari, IT), Lorenzo Ballini (UniFi, IT), Leonardo Girlanda (UniFi, IT) and Annunziata Deluisi (UniBari, IT).
+
+Filming was performed by Morten Skage, Irene Fabiola Roman Maldonado, Jill Jaworski (SciLifeLab Training Hub), and Olga Vinnere Pettersson.
+
+::: {.callout-tip}
 ## Note
-- This content is currently in post-production and access is limited to participants
-- If you require access, please contact the course administrators
+- The course material is organized from this group's sample preparation to discussion of the results
+- Skip to the full course playlist section to watch the full Introductory course!
 :::
 
-[Introduction and Safety Considerations](SAFETY VID)
-Follow Irene and Mårten as they describe an overview of how the technique is scheduled, safety considerations, and some background on how the technique is implemented and developed in a production setting.
+## Introductory Material
+[Introduction and Safety Considerations](https://youtu.be/Zj3ZI4OtuRw) - Follow Irene and Morten as they describe an overview of how the technique is scheduled, safety considerations, and some background on how the technique is implemented and developed in a production setting.
 
 ### Sample preparation
-For the introductory group, herring and krill were used as sample types, and were prepared according to regular and low input protocols. Watch the following videos for a walkthrough of sample preparation.
+For the introductory group, herring was used for the sample, and was prepared according to the [Arima HiC standard input protocol](https://arimagenomics.com/wp-content/files/User-Guide-Arima-HiC-for-Animal-Tissues.pdf). Additionally, Irene demonstrated low input sample preparation for krill. The following videos demonstrate and discuss how to prepare samples for HiC.
 
-Tissue weighing, handling tips and grinding with liquid nitrogen. Runtime: 22 minutes. 
+[Sample preparation instruction](https://youtu.be/-5wTTPITbK4) - Tissue weighing, handling tips and grinding with liquid nitrogen. Runtime: 22 minutes. 
 
-[Sample preparation instruction](https://drive.google.com/file/d/1H5CMCjFoX3aD0uOgxNJAN_mu2_h3WSuz/view?usp=share_link)
+[Sample crosslinking](https://youtu.be/3OeDNjTXdxQ) - Crosslinking the samples, and the importance of a homogenous solution. Runtime: 18 minutes.
 
-Crosslinking the samples, and the importance of a homogenous solution. Runtime: 18 minutes.
-
-[Sample crosslinking](https://drive.google.com/file/d/100MZf7saLs_6tznCrv679ohkbyI9IIqe/view?usp=share_link)
-
-The krill samples are crosslinked first, and then tissue grinding with a power masher. Runtime: 6 minutes.
-
-[Low input sample preparation](https://drive.google.com/file/d/1cpT7t-EEMbc6xZoPm4N_r4LqC6RlWuTG/view?usp=share_link)
+[Low input sample preparation](https://youtu.be/qhyNK3w7Q4k) - The krill samples are crosslinked first, and then tissue grinding with a power masher. The differences between low and standard input protocols are discussed, and the samples chosen for the HiC reactions. Runtime: 13 minutes.
 
 ### Estimating Input
 
-Estimating input for krill and herring samples, and how low input and standard input approaches differ. Runtime: 10 minutes.
+[Estimating input amount](https://youtu.be/UNSg0WVvM3s) - Estimating input for krill and herring samples, and how low input and standard input approaches differ. Runtime: 9 minutes.  ** Note: for a demonstration of steps 5-11 including Qubit quantification, see the [Challenging Samples module](module2.qmd)!
 
-[Estimating input amount](https://drive.google.com/file/d/1a8ZyYmXpHVlH4Wukvulpofj51ZOYvdD9/view?usp=share_link) ** Note: for a demonstration of steps 5-11 including Qubit quantification, see the [Challenging Samples module](module2.qmd)!
+[Choosing samples for HiC reactions](https://youtu.be/k_6gaRzQj2Y) - How to approach the decision on which input amounts to proceed with. Runtime: 6 minutes.
 
 ### HiC Reactions
 
-How to approach the decision on which input amounts to proceed with. Runtime: 10 minutes.
-
-[Choosing samples for HiC reactions](https://drive.google.com/file/d/1t1gwGQv7STuMfQPp3ZHR2WmOGshgYM32/view?usp=share_link)
-
-Follow along as the krill and herring are processed with the Arima HiC reactions. Runtime: 27 minutes.
-
-[HiC Reactions](https://drive.google.com/file/d/1foQ3UE4qFe4GofpgEyRuKqJ0QdTYEOqS/view?usp=share_link)
+[HiC Reactions](https://youtu.be/qKzPb8XbIuI) - Follow along as the krill and herring are processed with the Arima HiC reactions. Runtime: 27 minutes.
 
 ### QC1
 
-Considerations for when to proceed with QC1, and how the behaviour of the sample can indicate genomic differences. Runtime: 18 minutes.
+[QC1](https://youtu.be/7fJ5dlX0cQ0) - Considerations for when to proceed with QC1, and how the behaviour of the sample can indicate genomic differences. Runtime: 18 minutes.
 
-[QC1](https://drive.google.com/file/d/1BBUcsHExm9d5D4pjgHHtHeNoY5gOO8Ka/view?usp=share_link)
+[Discussion of results & next steps](https://youtu.be/OVxKUnIJofU) - Interpretation of QC1 results and an overview of the next steps. Runtime: 6 minutes.
 
-Interpretation of QC1 results and an overview of the next steps. Runtime: 6 minutes.
+[Irene Fabiola Roman Maldonado, presenting the Introductory HiC lab results](https://youtu.be/4RAAfUvEdQw) - The final group discussion of the results, led by Irene. Runtime: 15 minutes.
 
-[Discussion of results & next steps](https://drive.google.com/file/d/1PLTSypMIjMu0XVijPlk4Fc4Dcu9LduJ9/view?usp=share_link)
+## Full Introductory HiC Playlist
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=L59OXJ1jwzq_idK6&amp;list=PLs-WBtSInuq-lBs6OPy06wAD9jLUwzQAW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Citation
+The Arima HiC protocol shown in this course is © 2019, Arima Genomics, Inc. All rights reserved.
+
+The video materials from this course are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite the course material as:
+
+> Morten Skage, Irene Fabiola Roman Maldonado, Karine Labadie, Simona Buonanno, Lorenzo Ballini, Annunziata Deluisi, Leonardo Girlanda, Graeme Oatley, Fernando Cruz Rodriguez, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab Introductory HiC Course*. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module1.html

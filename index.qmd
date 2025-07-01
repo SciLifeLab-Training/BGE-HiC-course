@@ -1,17 +1,20 @@
 ---
-title: "BGE HiC Course"
+title: "Biodiversity Genomics Europe + SciLifeLab Hi-C Course"
 ---
 
-#### Introduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson
+#### Welcome to the BGE + SciLifeLab Digital Course!
 
-<iframe src="https://drive.google.com/file/d/18NE5OAxyihAB0uH5q6IqpJASXsrORjzK/preview" width="640" height="360" allow="autoplay"></iframe>
+With the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, available to all.
 
-The current iteration of this course content is available for participants only, until review and approval.
+::: {.callout-important}
+- The [Introductory HiC Course stream](module1.qmd) is now available!
+- Parts of the course are currently in post-production and available for participants only, until review and approval (release date expected August 2025)
+:::
 
 ![Participants of the 2024 HiC Course. Photo by Hampus Pehrsson Ternström](/img/HiC-Crew.png){fig-align="center" width=600}
 
-Please do not share the draft contents of this course.
 
-The footage will be post-processed and sent to all participants for approval. The video footage and captions will be made available before August 2025.
+#### Introduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson
+<iframe src="https://drive.google.com/file/d/18NE5OAxyihAB0uH5q6IqpJASXsrORjzK/preview" width="560" height="315" allow="autoplay"></iframe>
 
 [![DOI](https://zenodo.org/badge/823634608.svg)](https://doi.org/10.5281/zenodo.14643653)
