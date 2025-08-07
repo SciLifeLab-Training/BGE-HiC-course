@@ -1,54 +1,59 @@
 ---
 title: "Challenging Samples HiC Course"
 ---
-
-::: {.callout-important}
-This course stream is currently in post-production and will be available August 2025
-:::
-
 ![](/img/ChallengingGroup.png){fig-align="center" width=400 fig-alt="Photo by Hampus Pehrsson Ternström"}
 
 In this course stream, expert users Giada Ferrari (University of Oslo, NO), Pamela Veneziano Broccia (CNAG, ES), and Tuuli Lundbäck-Larva (SciLifeLab, SE) worked together with expert instructor Brian Kilburn (Arima, US) to perform the Arima HiC protocol on challenging samples. As all group participants are experts in HiC, this group all contributed specialized knowledge of challenging sample preparation.
 
+Filming was performed by Kristen Schroeder (SciLifeLab Training Hub).
+
 ::: {.callout-tip}
 ## Note
-- The course material is organized from this group's sample preparation to results discussion
+- The course material is organized from sample preparation to discussion of the results
 - Skip to the full course playlist section to watch the full Challenging Samples course!
 :::
 
-## Challenging Sample Material
+## Challenging Samples Material
 ### Sample preparation
 
-Eight challenging sample types were processed for Hi-C. Watch the following videos for a walkthrough of each sample up to the crosslinking step.
+Eight challenging sample types were processed for Hi-C using the [Arima High Coverage HiC protocol](https://arimagenomics.com/wp-content/files/User-Guide-Arima-High-Coverage-for-Animal-Tissue.pdf). Watch the following videos for a walkthrough of each sample up to the crosslinking step.
 
 | Preparation | Info | Runtime |
 |------|------| ------|
-| [Lichen](https://drive.google.com/file/d/10vvxCbuUXYkl43Tt9D483SS9isQ-9441/view?usp=share_link) | Two lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle. | 30min |
-| [Flustra](https://drive.google.com/file/d/1v8DSWBrhU8NNgiDm-3rYNXDbO0l33MFR/view?usp=share_link) | The Flustra sample was ground using liquid nitrogen as for the Lichen samples | 2.5min |
-| [Sponge](https://drive.google.com/file/d/14DmAF65XEfB6XBdYzaPNCelA5CfpvNSZ/view?usp=share_link) | A sponge was processed using the "squeeze method"; a gentle extraction of nuclei from the sponge skeleton | 30min |
-| [Algae (slime)](https://drive.google.com/file/d/1uL4Q_-f0gJJGnWvizKlr6YFjKHVIhUP9/view?usp=share_link) | Processing of an algae that produces an extracellular matrix. | 5min |
-| [Mosquito](https://drive.google.com/file/d/1gUEevdf9zuzoFJgb0fo7peU90ye_a_Ax/view?usp=share_link) | Sample processing of mosquitos. Two different sample preparations were performed. | 15min |
-| [Worm](https://drive.google.com/file/d/1Atfg-TFXjTQ7_1RLYotdSN6le6av_PLw/view?usp=share_link) | Discussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption. | 2min |
+| [Lichen](https://youtu.be/lBVAmwqkWtM) | Two lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle. | 30min |
+| [Flustra](https://youtu.be/w8krCpK1JnQ) | The Flustra sample was ground using liquid nitrogen as for the Lichen samples | 3min |
+| [Sponge](https://youtu.be/X5mpoOm4XaE) | A sponge was processed using the "squeeze method"; a gentle extraction of nuclei from the sponge skeleton | 25min |
+| [Algae (slime)](https://youtu.be/tJ4bPKQfz5o) | Processing of an algae that produces an extracellular matrix. | 5min |
+| [Mosquito](https://youtu.be/4ijoSwjzBuo) | Sample processing of mosquitos. Two different sample preparations were performed. | 12min |
+| [Worm](https://youtu.be/7i-ZSZzC9_g) | Discussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption. | 3min |
 : {tbl-colwidths="[20,70,10]"}
 
 ::: callout-note
 Sample preparation for herring, krill, moose, reindeer spleen and heart can be found in the [AssemblyLink Sample Preparation](module3.qmd).
 :::
 
-[Sample crosslinking video](https://drive.google.com/file/d/12tlHYHO2MtPhJ7fxcl_TNwtDkYU56lGv/view?usp=share_link) - The eight sample types were batch processed from the crosslinking stage onwards. Includes discussion on handling insects, low input samples, recommended equipment, and sticky pellets. Runtime: 26 minutes.
+[Sample crosslinking](https://youtu.be/ItkQ84fRKCA) - The eight sample types were batch processed from the crosslinking stage onwards. Includes discussion on handling insects, low input samples, recommended equipment, and sticky pellets. Runtime: 25 minutes.
 
 ### Estimating Input
-[Estimating input video](https://drive.google.com/file/d/1b5StbVvYIWyMZv-D2udVmQZc0mZwKHqU/view?usp=share_link) - The estimating input protocol was performed on the two lichen samples. Runtime: 22 minutes.
+[Estimating input](https://youtu.be/l8cSQLg7qss) - The estimating input protocol was performed on the two lichen samples. Runtime: 20 minutes.
 
 ### HiC Reactions
-[HiC Reactions video](https://drive.google.com/file/d/1HimIz-hKQ3SvkRFP1OtJChj2dyWf5NTG/view?usp=share_link) - Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 60 minutes.
+[HiC reactions](https://youtu.be/hS509Yb5l4g) - Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 50 minutes.
 
 ### QC1
-[QC1 protocol and discussion for challenging samples](https://drive.google.com/file/d/1OCmwtyh_jOkeGDe2vNHUGu6il8EcjUQR/view?usp=share_link) - The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 15 minutes.
+[QC1 protocol and discussion for challenging samples](https://youtu.be/45N-Zs4lqwE) - The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 13 minutes.
 
-[Giada Ferrari, presenting the Challenging Samples lab results](https://drive.google.com/file/d/1dHuQE5OKyNwxxJyllBlS-A9CbswXbNPK/view?usp=share_link)
+[Giada Ferrari, presenting the Challenging Samples lab results](https://youtu.be/dy4vxIIZKSM) - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes.
 
-<!--
+
 ## Full Challenging Samples HiC Playlist
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=w4taKJ-B-_8ywFLD&amp;list=PL1nnHOyxN_WdqnzLqbmWJz_i0f2anT9cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bZSQdDmTL5_mZ4yQ&amp;list=PLs-WBtSInuq-vuXxth5WYZsdCOsjeBepz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Citation
+The Arima HiC protocol shown in this course is © 2019, Arima Genomics, Inc. All rights reserved.
+
+The video materials from this course are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite the course material as:
+
+> Giada Ferrari, Brian Kilburn, Tuuli Lundback-Lärva, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab Challenging Samples HiC Course*. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module2.html

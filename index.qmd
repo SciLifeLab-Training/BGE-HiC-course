@@ -1,13 +1,14 @@
 ---
-title: "Biodiversity Genomics Europe + SciLifeLab Hi-C Course"
+title: "BGE + SciLifeLab Hi-C Course"
 ---
 
-#### Welcome to the BGE + SciLifeLab Digital Course!
+#### Welcome to the Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course!
 
-With the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, available to all.
+With the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, openly available to all.
 
 ::: {.callout-important}
 - The [Introductory HiC Course stream](module1.qmd) is now available!
+- The [Challenging Samples HiC Course stream](module2.qmd) is now available!
 - Parts of the course are currently in post-production and available for participants only, until review and approval (release date expected August 2025)
 :::
 
