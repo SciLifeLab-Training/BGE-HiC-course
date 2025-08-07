@@ -1,19 +1,34 @@
 ---
-title: "Protocols"
+title: "Protocol Information"
 ---
 
 ::: {.callout-important}
 This section is currently in post-production and will be available August 2025
 :::
 
-#### Presentations on Arima & Dovetail HiC protocols
-The companies producing and validating the protocols and chemistries used in the course presented about their kits.
+## Presentations on HiC protocols used in this course
+The companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.
 
-[Miles Collier, Dovetail, presents on AssemblyLink](https://drive.google.com/file/d/1EFBQyeFk5uq94SntI-anI1VTwSYPlKFR/view?usp=share_link)
+### AssemblyLink - Cantata Bio
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/Cantata-bio.png" alt="" width="80"></td>
+    <td style="width: 80%;">Miles Collier, Cantata Bio, [presents on AssemblyLink](https://drive.google.com/file/d/1EFBQyeFk5uq94SntI-anI1VTwSYPlKFR/view?usp=share_link)</td>
+</tr>
+</table>
+
 The AssemblyLink protocol used in this course can be [found here](https://cantatabio.com/wp-content/uploads/2024/06/Dovetail_AssemblyLink_Kit_User_Guide.pdf).
 
-[Brian Kilburn, Arima, presents on the Arima HiC protocol](https://drive.google.com/file/d/1E57ejkNEqRFWoGNO95GaSNoCk0egz_ki/view?usp=share_link). The Arima HiC protocol used in this course can be [found here](https://arimagenomics.com/wp-content/files/User-Guide-Arima-HiC-for-Animal-Tissues.pdf).
+### Arima Genomics
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/Arima-Logo_Homepage.png" alt="" width="80"></td>
+    <td style="width: 80%;">Brian Kilburn, Arima Genomics, [presents on the Arima HiC protocol](https://drive.google.com/file/d/1E57ejkNEqRFWoGNO95GaSNoCk0egz_ki/view?usp=share_link). </td>
+</tr>
+</table>
+The Arima HiC protocol used in this course can be [found here](https://arimagenomics.com/wp-content/files/User-Guide-Arima-HiC-for-Animal-Tissues.pdf).
 
+<!--
 #### Protocols shared by the HiC Course Group
 Validated protocols from Irene (Sanger Institute)
 
@@ -26,3 +41,4 @@ Validated protocols from Irene (Sanger Institute)
 [HiC for Low Input Plants](https://drive.google.com/file/d/1LSKKbilkW87hpxuhmFgZ4tOus6WNe3sy/view?usp=share_link)
 
 [HiC for Blood](https://drive.google.com/file/d/165Rdt4LdOYg67Isu7wI81UtGRzg6Ke0a/view?usp=share_link)
+-->

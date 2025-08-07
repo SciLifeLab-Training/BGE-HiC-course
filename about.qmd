@@ -7,19 +7,29 @@ This course has been released as an Open Educational Resource. Below you can fin
 
 ### Description
 ::: {.callout-note appearance="simple" icon=false}
-**Title:** Biodiversity Genomics Europe and SciLifeLab Hi-C Course <br>
-**Description:** A course to train researchers in open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers. <br>
+**Title: Biodiversity Genomics Europe and SciLifeLab Hi-C Course** <br>
+**Description:** A course aiming to provide open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers. <br>
+**Authors:** Maria Laura Aguilera Gil<sup>4</sup>, Lorenzo Ballini<sup>8</sup> <a href="https://orcid.org/0009-0009-5400-2128" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Laurie Bertrand<sup>3</sup> <a href="https://orcid.org/0000-0002-4550-761X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Simona Buonanno<sup>7</sup>, Eunkyong Choi<sup>6</sup>, Annunziata Deluisi<sup>7</sup>, Giada Ferrari<sup>9</sup> <a href="https://orcid.org/0000-0002-0850-1518" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Leonardo Girlanda<sup>8</sup> <a href="https://orcid.org/0009-0009-8934-1875" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Carmela Gissi<sup>7</sup> <a href="https://orcid.org/0000-0002-2269-079X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Maria Gyftea<sup>6</sup>, Brian Kilburn<sup>1</sup>, Karine Labadie<sup>3</sup> <a href="https://orcid.org/0000-0001-7467-8509" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Tuuli Lundback-Lärva<sup>6</sup>, Graeme Oatley<sup>5</sup> <a href="https://orcid.org/0000-0003-0896-9994" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Fernando Cruz Rodriguez<sup>4</sup>, Irene Fabiola Roman Maldonado<sup>5</sup> <a href="https://orcid.org/0000-0001-5835-3560" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Lily Shiue<sup>2</sup>, Morten Skage<sup>9</sup>, Pamela Veneziano Broccia<sup>4</sup> <a href="https://orcid.org/0000-0002-3498-7304" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Ave Tooming-Klunderud<sup>9</sup> <a href="https://orcid.org/0009-0008-0057-2873" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Olga Vinnere Pettersson<sup>6</sup> <a href="https://orcid.org/0000-0002-5597-1870" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+<br>
+<sup>1</sup> Arima Genomics (US)<br>
+<sup>2</sup> Cantata Bio (UK)<br>
+<sup>3</sup> Genoscope (FR)<br>
+<sup>4</sup> National Center for Genomic Analysis (ES)<br>
+<sup>5</sup> Sanger Institute (UK)<br>
+<sup>6</sup> SciLifeLab (SE)<br>
+<sup>7</sup> University of Bari Aldo Moro (IT)<br>
+<sup>8</sup> University of Florence (IT)<br>
+<sup>9</sup> University of Oslo (NO) <br>
+**Author contact details:** olga.pettersson@igp.uu.se<br>
+**Contributors:** Kristen Schroeder<sup>1</sup> <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Jill Jaworski<sup>1</sup> <a href="https://orcid.org/0009-0006-2607-5256" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Hampus Pehrsson Ternström<sup>1</sup><br>
+<sup>1</sup> SciLifeLab (SE)<br>
 **Type:** Video <br>
 **Language:** English <br>
 **Keywords:** Hi-C, genomics, biodiversity, sequencing <br>
 **Content provider:** SciLifeLab and Biodiversity Genomics Europe consortium <br>
 **Date created:** June 9-14, 2024 <br>
 **Date published:** August 31, 2025  <br>
-<!--
-Authors
-Author contact details
-contributors
--->
+
 :::
 
 ### Educational
@@ -33,7 +43,6 @@ Discussion content - (TBD) <br>
 **Expertise/skill level:** Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices.
 <!--
 learning outcomes
-expertise/skill level
 prereqs knowledge
 prereqs technical
 associated resources
@@ -59,10 +68,9 @@ The video materials from this course are available for reuse under <a href="http
 > Maria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab HiC Course*. DOI:10.5281/zenodo.14643654. <br>
 
 **Date of last revision:** Aug 31, 2025 <br>
+**Status:** Under development<br>
+**Modification contact:** training.hub@scilifelab.se
 <!-- 
-status
 version
-date of last revision
-modification contact person
 -->
 :::
