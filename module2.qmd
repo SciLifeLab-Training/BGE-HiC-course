@@ -50,14 +50,14 @@ Prior to the course, the challenging samples were sent to the participating inst
 
 | Organisms | Presented by | Runtime |
 |------|------|------|
-|[Plants and Algae](https://drive.google.com/file/d/10izyMUFF4oMKHRPX44CSTNebyF1BjW7t/view?usp=share_link)|Karine Labadie, Genoscope| - |
-|[Plants and Lichens](https://drive.google.com/file/d/18V-3_Ex2u8Kpw5o8o2bnzRxyWDzDiaCM/view?usp=share_link)|Irene Fabiola Roman Maldonado, The Sanger Institute| - |
-|[Coral and Sponge](https://drive.google.com/file/d/1FKwLXoIECHNFUf2rQIdC347Q97J6saJD/view?usp=share_link)|Brian Kilburn, Arima| - |
+|[Plants and Algae](https://youtu.be/1n8cDAUcR1g)|Karine Labadie, Genoscope| 16min |
+|[Plants and Lichens](https://youtu.be/-84jnDBsDOM)|Irene Fabiola Roman Maldonado, The Sanger Institute| 16min |
+|[Coral and Sponge](https://youtu.be/r_4JdeZef4c)|Brian Kilburn, Arima| 8.5min |
 |Jellyfish and Coral|Karine Labadie, Genoscope| - |
-|[Monogyna spp.](https://drive.google.com/file/d/1Czh992tfWnWOD9hmcqOHH-TOs1ZB4-Zp/view?usp=share_link)|Morten Skage, University of Oslo| - |
+|[Monogyna spp.](https://youtu.be/--uDYopgWxI)|Morten Skage, University of Oslo| 5min |
 : {tbl-colwidths="[20,70,10]"}
 
-Morten Skage, University of Oslo, presents [considerations for how to define and approach challenging samples](https://drive.google.com/file/d/1mHO5xM_V3VgEonK9Fl59M8Q1fbKGnS8n/view?usp=share_link)
+Morten Skage, University of Oslo, presents [considerations for how to define and approach challenging samples](https://youtu.be/1b5BR9Jz3xc). Runtime: 14 min.
 
 ## Full Challenging Samples HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bZSQdDmTL5_mZ4yQ&amp;list=PLs-WBtSInuq-vuXxth5WYZsdCOsjeBepz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -65,7 +65,7 @@ Morten Skage, University of Oslo, presents [considerations for how to define and
 ### Citation
 The Arima HiC protocol shown in this course is © 2019, Arima Genomics, Inc. All rights reserved.
 
-The video materials from this course are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The video materials from this course stream are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite the course material as:
 
