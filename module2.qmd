@@ -45,20 +45,6 @@ Sample preparation for herring, krill, moose, reindeer spleen and heart can be f
 
 [Giada Ferrari, presenting the Challenging Samples lab results](https://youtu.be/dy4vxIIZKSM) - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes.
 
-## Challenging Samples Discussion
-Prior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes.
-
-| Organisms | Presented by | Runtime |
-|------|------|------|
-|[Plants and Algae](https://youtu.be/1n8cDAUcR1g)|Karine Labadie, Genoscope| 16min |
-|[Plants and Lichens](https://youtu.be/-84jnDBsDOM)|Irene Fabiola Roman Maldonado, The Sanger Institute| 16min |
-|[Coral and Sponge](https://youtu.be/r_4JdeZef4c)|Brian Kilburn, Arima| 8.5min |
-|Jellyfish and Coral|Karine Labadie, Genoscope| - |
-|[Monogyna spp.](https://youtu.be/--uDYopgWxI)|Morten Skage, University of Oslo| 5min |
-: {tbl-colwidths="[20,70,10]"}
-
-Morten Skage, University of Oslo, presents [considerations for how to define and approach challenging samples](https://youtu.be/1b5BR9Jz3xc). Runtime: 14 min.
-
 ## Full Challenging Samples HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bZSQdDmTL5_mZ4yQ&amp;list=PLs-WBtSInuq-vuXxth5WYZsdCOsjeBepz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

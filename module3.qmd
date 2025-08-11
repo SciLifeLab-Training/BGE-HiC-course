@@ -76,13 +76,6 @@ A third attempt is performed on the herring and reindeer spleen tissues with the
 
 [Lily Shiue, presenting the AssemblyLink HiC lab results](https://drive.google.com/file/d/10Q4LVJL4i_7roPd0vKI6RoVxLuslCi1w/view?usp=share_link)
 
-## Challenging Samples Discussion
-As for the [Challenging Samples Course Stream](module2.qmd), prior to the course the AssemblyLink method was tested by the participating institutions. Below are the presentations of these results.
-
-Morten Skage, University of Oslo, [presenting results from AssemblyLink on Fish Blood](https://drive.google.com/file/d/1vvJfDGH8jaVG7hZ7dKY29PLT1KdAbt7A/view?usp=share_link)
-
-Cantata Bio [tested the worm and algae samples](https://drive.google.com/file/d/1cn_TZnpGodunQdl-46eXS7oPY4WmoP_7/view?usp=share_link), and Lily Shiue presents AssemblyLink results with Meara and Algae.
-
 <!--
 ## Full AssemblyLink HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=w4taKJ-B-_8ywFLD&amp;list=PL1nnHOyxN_WdqnzLqbmWJz_i0f2anT9cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

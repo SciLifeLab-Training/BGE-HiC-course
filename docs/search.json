@@ -4,14 +4,7 @@
     "href": "module3.html",
     "title": "AssemblyLink",
     "section": "",
-    "text": "Important\n\n\n\nThis course stream is currently in post-production and will be available August 2025\nIn this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.\nFilming was performed by Maria Gyftea and Lily Shiue."
-  },
-  {
-    "objectID": "module3.html#challenging-samples-discussion",
-    "href": "module3.html#challenging-samples-discussion",
-    "title": "AssemblyLink",
-    "section": "Challenging Samples Discussion",
-    "text": "Challenging Samples Discussion\nAs for the Challenging Samples Course Stream, prior to the course the AssemblyLink method was tested by the participating institutions. Below are the presentations of these results.\nMorten Skage, University of Oslo, presenting results from AssemblyLink on Fish Blood\nCantata Bio tested the worm and algae samples, and Lily Shiue presents AssemblyLink results with Meara and Algae.\n\n\nCitation\nThe AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.\nThe video materials from this course are available for reuse under \nPlease cite the course material as:\n\nLily Shiue, Maria Laura Aguilera Gil, Laurie Bertrand, Eunkyong Choi, Carmela Gissi, Maria Gyftea, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab AssemblyLink HiC Course. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module3.html"
+    "text": "Important\n\n\n\nThis course stream is currently in post-production and will be available August 2025\n\n\n\n\n\n\n\nIn this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.\nFilming was performed by Maria Gyftea and Lily Shiue.\n\n\n\n\n\n\nNote\n\n\n\n\nThe course material is organized from this group’s sample preparation to results discussion to demonstrate the protocol, with extra videos of troubleshooting.\nSkip to the full course playlist section to watch the full AssemblyLink course!\n\n\n\n\nTissue preparation\nSample preparation was performed by each participant according to how they usually disrupt tissues.\n\n\n\n\n\n\n\n\nPreparation\nInfo\nRuntime\n\n\n\n\nHerring\nHerring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen.\n8.5min\n\n\nReindeer heart\nReindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen.\n10min\n\n\nReindeer Spleen\nReindeer spleen tissue was disrupted in a mortar and pestle laying in liquid nitrogen.\n7.5min\n\n\nKrill\nThe small krill sample was disrupted in a mortar and pestle laying in liquid nitrogen.\n7min\n\n\nMoose\nThe moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen.\n7min\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSample preparation for lichens, worms, algae, sponges, and insects can be found in the Challenging Sample Preparation.\n\n\n\n\nLysate preparation\nThe AssemblyLink protocol was used when crosslinking and creating a lysate from the samples. Maria Gyftea demonstrates this protocol on the krill sample, including discussion with Lily. Runtime: 17 minutes.\nSample preparation\n\n\nLysate QC\nThe quality control protocol is performed on all samples in order to check if enough lysate has been created for the downstream procedures, and to determine its concentration and quality. The lysates are found to have very low yields. Runtime: 15.5 minutes.\nLysate QC 7\nThe lysates are run on the bioanalyzer to determine the quality of the lysate, and found to be underdigested. Runtime: 4 minutes.\nDiscussion of QC Results 8\n\n\nProximity Ligations\nWhile Lily repeats the AssemblyLink Sample preparation with higher input, the herring and reindeer spleen samples are chosen to proceed with the protocol. In the first step, chromatin capture is performed. Runtime: 4.5 minutes.\nChromatin Capture 9\nIn the next step, three ligation reactions and the crosslinking reversal reaction are performed. Runtime: 11 minutes.\nProximity Ligations 10\nFinally, the DNA is purified from the sample lysate. Runtime: 7 minutes.\nDNA Purification 11\n\n\nLibrary Preparation\nIn the final step of the protocol performed during the course, library preparation is performed on the herring and reindeer spleen samples from the first round. The protocol is performed up until the Index PCR stage, at which point the samples were stored for further analysis. Runtime: 8.5 minutes.\nLibrary Preparation 13\n\n\nTroubleshooting and additional attempts\nThe results of increasing input are not promising, as the samples are still underdigested. The AssemblyLink group discusses possible additions and controls. Runtime: 8 minutes.\nDiscussion of Results 2 12\nA third attempt is performed on the herring and reindeer spleen tissues with the inclusion of the cell isolation module. Additional controls and discussion is included, and we recommend watching the first sample preparation video first! Runtime: 24 minutes.\nSample Preparation 2 14\nLily Shiue, presenting the AssemblyLink HiC lab results\n\n\n\nCitation\nThe AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.\nThe video materials from this course are available for reuse under \nPlease cite the course material as:\n\nLily Shiue, Maria Laura Aguilera Gil, Laurie Bertrand, Eunkyong Choi, Carmela Gissi, Maria Gyftea, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab AssemblyLink HiC Course. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module3.html"
   },
   {
     "objectID": "module2.html",
@@ -26,13 +19,6 @@
     "title": "Challenging Samples HiC Course",
     "section": "Challenging Samples Material",
     "text": "Challenging Samples Material\n\nSample preparation\nEight challenging sample types were processed for Hi-C using the Arima High Coverage HiC protocol. Watch the following videos for a walkthrough of each sample up to the crosslinking step.\n\n\n\n\n\n\n\n\nPreparation\nInfo\nRuntime\n\n\n\n\nLichen\nTwo lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle.\n30min\n\n\nFlustra\nThe Flustra sample was ground using liquid nitrogen as for the Lichen samples\n3min\n\n\nSponge\nA sponge was processed using the “squeeze method”; a gentle extraction of nuclei from the sponge skeleton\n25min\n\n\nAlgae (slime)\nProcessing of an algae that produces an extracellular matrix.\n5min\n\n\nMosquito\nSample processing of mosquitos. Two different sample preparations were performed.\n12min\n\n\nWorm\nDiscussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption.\n3min\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSample preparation for herring, krill, moose, reindeer spleen and heart can be found in the AssemblyLink Sample Preparation.\n\n\nSample crosslinking - The eight sample types were batch processed from the crosslinking stage onwards. Includes discussion on handling insects, low input samples, recommended equipment, and sticky pellets. Runtime: 25 minutes.\n\n\nEstimating Input\nEstimating input - The estimating input protocol was performed on the two lichen samples. Runtime: 20 minutes.\n\n\nHiC Reactions\nHiC reactions - Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 50 minutes.\n\n\nQC1\nQC1 protocol and discussion for challenging samples - The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 13 minutes.\nGiada Ferrari, presenting the Challenging Samples lab results - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes."
-  },
-  {
-    "objectID": "module2.html#challenging-samples-discussion",
-    "href": "module2.html#challenging-samples-discussion",
-    "title": "Challenging Samples HiC Course",
-    "section": "Challenging Samples Discussion",
-    "text": "Challenging Samples Discussion\nPrior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes.\n\n\n\n\n\n\n\n\nOrganisms\nPresented by\nRuntime\n\n\n\n\nPlants and Algae\nKarine Labadie, Genoscope\n16min\n\n\nPlants and Lichens\nIrene Fabiola Roman Maldonado, The Sanger Institute\n16min\n\n\nCoral and Sponge\nBrian Kilburn, Arima\n8.5min\n\n\nJellyfish and Coral\nKarine Labadie, Genoscope\n-\n\n\nMonogyna spp.\nMorten Skage, University of Oslo\n5min\n\n\n\nMorten Skage, University of Oslo, presents considerations for how to define and approach challenging samples. Runtime: 14 min."
   },
   {
     "objectID": "module2.html#full-challenging-samples-hic-playlist",
@@ -76,7 +62,7 @@
     "href": "index.html",
     "title": "BGE + SciLifeLab Hi-C Course",
     "section": "",
-    "text": "Welcome to the Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course!\nWith the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, openly available to all.\n\n\n\n\n\n\nImportant\n\n\n\n\nThe Introductory HiC Course stream is now available!\nThe Challenging Samples HiC Course stream is now available!\nParts of the course are currently in post-production and available for participants only, until review and approval (release date expected August 2025)\n\n\n\n\n\n\nParticipants of the 2024 HiC Course. Photo by Hampus Pehrsson Ternström\n\n\n\n\nIntroduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson\n\n\n\n\n\nDOI",
+    "text": "Welcome to the Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course!\nWith the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, openly available to all.\n\n\n\n\n\n\nImportant\n\n\n\n\nThe Introductory HiC Course stream is now available!\nThe Challenging Samples HiC Course stream is now available!\nThe Hi-C knowledge exchange lectures & discussion section is now available!\nParts of the course are currently in post-production and available for participants only, until review and approval (release date expected August 2025)\n\n\n\n\n\n\nParticipants of the 2024 HiC Course. Photo by Hampus Pehrsson Ternström\n\n\n\n\nIntroduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson\n\n\n\n\n\nDOI",
     "crumbs": [
       "BGE + SciLifeLab Hi-C Course"
     ]
@@ -105,41 +91,51 @@
   {
     "objectID": "protocols.html",
     "href": "protocols.html",
-    "title": "Protocol Knowledge",
+    "title": "Hi-C Knowledge Exchange",
     "section": "",
-    "text": "Important\n\n\n\nThis section is currently in post-production and will be available August 2025",
+    "text": "The companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.\n\n\n\n\n\n\n\n\nMiles Collier, Cantata Bio, presents on AssemblyLink\n\n\n\nThe AssemblyLink protocol used in this course can be found here.\n\n\n\n\n\n\n\n\n\nBrian Kilburn, Arima Genomics, presents on the Arima HiC protocol.\n\n\n\nThe Arima HiC protocol used in this course can be found here.",
     "crumbs": [
-      "Protocol Knowledge"
+      "Hi-C Knowledge Exchange"
     ]
   },
   {
     "objectID": "protocols.html#hic-chemistry-and-validation",
     "href": "protocols.html#hic-chemistry-and-validation",
-    "title": "Protocol Knowledge",
-    "section": "HiC chemistry and validation",
-    "text": "HiC chemistry and validation\nThe companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.\n\nAssemblyLink - Cantata Bio\n\n\n\n\n\n\nMiles Collier, Cantata Bio, presents on AssemblyLink\n\n\n\nThe AssemblyLink protocol used in this course can be found here.\n\n\nArima Genomics\n\n\n\n\n\n\nBrian Kilburn, Arima Genomics, presents on the Arima HiC protocol.\n\n\n\nThe Arima HiC protocol used in this course can be found here.",
+    "title": "Hi-C Knowledge Exchange",
+    "section": "",
+    "text": "The companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.\n\n\n\n\n\n\n\n\nMiles Collier, Cantata Bio, presents on AssemblyLink\n\n\n\nThe AssemblyLink protocol used in this course can be found here.\n\n\n\n\n\n\n\n\n\nBrian Kilburn, Arima Genomics, presents on the Arima HiC protocol.\n\n\n\nThe Arima HiC protocol used in this course can be found here.",
     "crumbs": [
-      "Protocol Knowledge"
+      "Hi-C Knowledge Exchange"
     ]
   },
   {
     "objectID": "protocols.html#protocol-adaptations-and-tips",
     "href": "protocols.html#protocol-adaptations-and-tips",
-    "title": "Protocol Knowledge",
+    "title": "Hi-C Knowledge Exchange",
     "section": "Protocol adaptations and tips",
-    "text": "Protocol adaptations and tips\nA representative from each institution presented specific adaptations and information on best practices for their sample processing. Fernando Cruz Rodriguez presented a bioinformaticians view of HiC QC.\n\n\n\n\n\n\n\n\nPractice\nPresented by\nRuntime\n\n\n\n\nConsiderations for tissue grinding\nKarine Labadie, Genoscope\n-\n\n\nNuclei isolation from plant samples\nGiada Ferrari, University of Oslo\n-\n\n\nA bioinformatic view of HiC QC\nFernando Cruz, CNAG\n-\n\n\nUltra low input samples\nIrene Fabiola Roman Maldonado, The Sanger Institute\n-",
+    "text": "Protocol adaptations and tips\nA representative from each institution presented specific adaptations and information on best practices for their sample processing, including a bioinformaticians view of HiC from Fernando Cruz Rodriguez.\n\n\n\n\n\n\n\n\nPractice\nPresented by\nRuntime\n\n\n\n\nConsiderations for tissue grinding\nKarine Labadie, Genoscope\n17min\n\n\nNuclei isolation from plant samples\nGiada Ferrari, University of Oslo\n10min\n\n\nUltra low input samples\nIrene Fabiola Roman Maldonado, The Sanger Institute\n10min\n\n\nA bioinformatic view of HiC QC\nFernando Cruz, CNAG\n51min",
     "crumbs": [
-      "Protocol Knowledge"
+      "Hi-C Knowledge Exchange"
+    ]
+  },
+  {
+    "objectID": "protocols.html#challenging-samples-discussion",
+    "href": "protocols.html#challenging-samples-discussion",
+    "title": "Hi-C Knowledge Exchange",
+    "section": "Challenging Samples Discussion",
+    "text": "Challenging Samples Discussion\nPrior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes–including with the AssemblyLink kit.\n\n\n\n\n\n\n\n\nOrganisms\nPresented by\nRuntime\n\n\n\n\nPlants and Algae\nKarine Labadie, Genoscope\n16min\n\n\nPlants and Lichens\nIrene Fabiola Roman Maldonado, The Sanger Institute\n16min\n\n\nCoral and Sponge\nBrian Kilburn, Arima\n8.5min\n\n\nJellyfish and Coral\nKarine Labadie, Genoscope\n-\n\n\nMonogyna spp.\nMorten Skage, University of Oslo\n5min\n\n\nFish Blood - AssemblyLink\nMorten Skage, University of Oslo\ncoming soon\n\n\nWorms and Algae - AssemblyLink\nLily Shiue, Cantata Bio\ncoming soon\n\n\n\nMorten Skage, University of Oslo, presents considerations for how to define and approach challenging samples. Runtime: 14 min.",
+    "crumbs": [
+      "Hi-C Knowledge Exchange"
     ]
   },
   {
     "objectID": "protocols.html#full-hic-protocol-knowledge-playlist",
     "href": "protocols.html#full-hic-protocol-knowledge-playlist",
-    "title": "Protocol Knowledge",
+    "title": "Hi-C Knowledge Exchange",
     "section": "Full HiC Protocol Knowledge Playlist",
-    "text": "Full HiC Protocol Knowledge Playlist",
+    "text": "Full HiC Protocol Knowledge Playlist\n\n\n\nCitation\nThe Arima HiC protocol used in this course is © 2019, Arima Genomics. The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.\nThe video materials from this course stream are available for reuse under \nIndividual lectures should be cited with credit given to the presenting researcher. If citing this page in its entirety, please use:\n\nFernando Cruz, Giada Ferrari, Brian Kilburn, Karine Labadie, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab Knowledge Exchange Collection. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/protocols.html",
     "crumbs": [
-      "Protocol Knowledge"
+      "Hi-C Knowledge Exchange"
     ]
   }
 ]

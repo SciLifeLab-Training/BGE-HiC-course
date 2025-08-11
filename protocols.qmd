@@ -1,10 +1,6 @@
 ---
-title: "Protocol Knowledge"
+title: "Hi-C Knowledge Exchange"
 ---
-
-::: {.callout-important}
-This section is currently in post-production and will be available August 2025
-:::
 
 ## HiC chemistry and validation
 The companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.
@@ -13,7 +9,7 @@ The companies producing and validating the protocols and chemistries used in the
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/Cantata-bio.png" alt="" width="80"></td>
-    <td style="width: 80%;">Miles Collier, Cantata Bio, [presents on AssemblyLink](https://drive.google.com/file/d/1EFBQyeFk5uq94SntI-anI1VTwSYPlKFR/view?usp=share_link)</td>
+    <td style="width: 80%;">Miles Collier, Cantata Bio, [presents on AssemblyLink](https://youtu.be/wvxLq_p7jCM)</td>
 </tr>
 </table>
 
@@ -23,21 +19,48 @@ The AssemblyLink protocol used in this course can be [found here](https://cantat
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/Arima-Logo_Homepage.png" alt="" width="80"></td>
-    <td style="width: 80%;">Brian Kilburn, Arima Genomics, [presents on the Arima HiC protocol](https://drive.google.com/file/d/1E57ejkNEqRFWoGNO95GaSNoCk0egz_ki/view?usp=share_link). </td>
+    <td style="width: 80%;">Brian Kilburn, Arima Genomics, [presents on the Arima HiC protocol](https://youtu.be/be6gWRLvaio). </td>
 </tr>
 </table>
 The Arima HiC protocol used in this course can be [found here](https://arimagenomics.com/wp-content/files/User-Guide-Arima-HiC-for-Animal-Tissues.pdf).
 
 ## Protocol adaptations and tips
-A representative from each institution presented specific adaptations and information on best practices for their sample processing. Fernando Cruz Rodriguez presented a bioinformaticians view of HiC QC.
+A representative from each institution presented specific adaptations and information on best practices for their sample processing, including a bioinformaticians view of HiC from Fernando Cruz Rodriguez.
 
 | Practice | Presented by | Runtime |
 |------|------| ------|
-|[Considerations for tissue grinding](https://drive.google.com/file/d/1bxRZR1gH19kbjjidTx2FqNuE12He_bvx/view?usp=share_link)| Karine Labadie, Genoscope | - |
-|[Nuclei isolation from plant samples](https://drive.google.com/file/d/1j1Kyrq_bXbUKnF3Br8rWYhXlJES3FCrj/view?usp=share_link)| Giada Ferrari, University of Oslo | - |
-|[A bioinformatic view of HiC QC](https://drive.google.com/file/d/1bDYEGac-cAr6W5AmN2XFxG3qLU5Rky-m/view?usp=share_link)| Fernando Cruz, CNAG | - |
-| [Ultra low input samples]()| Irene Fabiola Roman Maldonado, The Sanger Institute | - |
+|[Considerations for tissue grinding](https://youtu.be/ECRrN4R8F_o)| Karine Labadie, Genoscope | 17min |
+|[Nuclei isolation from plant samples](https://youtu.be/q6LZv_P3BU0)| Giada Ferrari, University of Oslo | 10min |
+|[Ultra low input samples](https://youtu.be/-8fGqm4_0AY)| Irene Fabiola Roman Maldonado, The Sanger Institute | 10min |
+|[A bioinformatic view of HiC QC](https://youtu.be/sqMp2zWQeNI)| Fernando Cruz, CNAG | 51min |
+
 : {tbl-colwidths="[50,40,10]"}
 
+## Challenging Samples Discussion
+Prior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes--including with the AssemblyLink kit.
+
+| Organisms | Presented by | Runtime |
+|------|------|------|
+|[Plants and Algae](https://youtu.be/1n8cDAUcR1g)|Karine Labadie, Genoscope| 16min |
+|[Plants and Lichens](https://youtu.be/-84jnDBsDOM)|Irene Fabiola Roman Maldonado, The Sanger Institute| 16min |
+|[Coral and Sponge](https://youtu.be/r_4JdeZef4c)|Brian Kilburn, Arima| 8.5min |
+|Jellyfish and Coral|Karine Labadie, Genoscope| - |
+|[Monogyna spp.](https://youtu.be/--uDYopgWxI)|Morten Skage, University of Oslo| 5min |
+|[Fish Blood - AssemblyLink](https://drive.google.com/file/d/1vvJfDGH8jaVG7hZ7dKY29PLT1KdAbt7A/view?usp=share_link)|Morten Skage, University of Oslo|coming soon|
+|[Worms and Algae - AssemblyLink](https://drive.google.com/file/d/1cn_TZnpGodunQdl-46eXS7oPY4WmoP_7/view?usp=share_link)|Lily Shiue, Cantata Bio|coming soon|
+: {tbl-colwidths="[20,70,10]"}
+
+Morten Skage, University of Oslo, presents [considerations for how to define and approach challenging samples](https://youtu.be/1b5BR9Jz3xc). Runtime: 14 min.
+
+
 ## Full HiC Protocol Knowledge Playlist
-<iframe width="560" height="315" src="--" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FGZ_5PNlcZWXYVVh&amp;list=PLs-WBtSInuq8paLyCQjei8w72P7WHqY39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Citation
+The Arima HiC protocol used in this course is © 2019, Arima Genomics. The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.
+
+The video materials from this course stream are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Individual lectures should be cited with credit given to the presenting researcher. If citing this page in its entirety, please use:
+
+> Fernando Cruz, Giada Ferrari, Brian Kilburn, Karine Labadie, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab Knowledge Exchange Collection*. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/protocols.html
