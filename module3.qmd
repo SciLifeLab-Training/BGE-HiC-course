@@ -9,6 +9,8 @@ This course stream is currently in post-production and will be available August 
 
 In this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.
 
+Filming was performed by Maria Gyftea and Lily Shiue.
+
 ::: {.callout-tip}
 ## Note
 - The course material is organized from this group's sample preparation to results discussion to demonstrate the protocol, with extra videos of troubleshooting.
@@ -18,26 +20,18 @@ In this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab,
 ### Tissue preparation
 Sample preparation was performed by each participant according to how they usually disrupt tissues.
 
-Herring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen. Runtime: 8.5 minutes.
+| Preparation | Info | Runtime |
+|------|------| ------|
+|[Herring](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)|Herring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen.| 8.5min|
+|[Reindeer heart](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)|Reindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen. |10min|
+|[Reindeer Spleen](https://drive.google.com/file/d/1MhB2nriZTgqXvuvgqGboufWh8752m0vN/view?usp=share_link)|Reindeer spleen tissue was disrupted in a mortar and pestle laying in liquid nitrogen.| 7.5min|
+|[Krill](https://drive.google.com/file/d/1SyE0UxsAOxvrUekNXRUDxTY9nYIk8TE5/view?usp=share_link)|The small krill sample was disrupted in a mortar and pestle laying in liquid nitrogen. |7min|
+|[Moose](https://drive.google.com/file/d/1HqSq1-1xQtSqcGBplhx9hA7anHzISHQg/view?usp=share_link)|The moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen. | 7min|
+: {tbl-colwidths="[20,70,10]"}
 
-[Sample preparation: Herring](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)
-
-Reindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 10 minutes.
-
-[Sample preparation: Reindeer heart](https://drive.google.com/file/d/1RMHJ6ZeyUOB9U1tt1SUSLXNLePQ9kK6q/view?usp=share_link)
-
-Reindeer spleen tissue was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 7.5 minutes.
-
-[Sample preparation: Reindeer Spleen](https://drive.google.com/file/d/1MhB2nriZTgqXvuvgqGboufWh8752m0vN/view?usp=share_link)
-
-The small krill sample was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 7 minutes.
-
-[Sample preparation: Krill](https://drive.google.com/file/d/1SyE0UxsAOxvrUekNXRUDxTY9nYIk8TE5/view?usp=share_link)
-
-The moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen. Runtime: 7 minutes.
-
-[Sample preparation: Moose](https://drive.google.com/file/d/1HqSq1-1xQtSqcGBplhx9hA7anHzISHQg/view?usp=share_link)
-
+::: callout-note
+Sample preparation for lichens, worms, algae, sponges, and insects can be found in the [Challenging Sample Preparation](module2.qmd).
+:::
 
 ### Lysate preparation
 The AssemblyLink protocol was used when crosslinking and creating a lysate from the samples. Maria Gyftea demonstrates this protocol on the krill sample, including discussion with Lily. Runtime: 17 minutes.
@@ -81,8 +75,24 @@ A third attempt is performed on the herring and reindeer spleen tissues with the
 [Sample Preparation 2](https://drive.google.com/file/d/1_XtvHhtvbKxDCo7fbsZ6QCs69Tu18Ot1/view?usp=share_link) 14
 
 [Lily Shiue, presenting the AssemblyLink HiC lab results](https://drive.google.com/file/d/10Q4LVJL4i_7roPd0vKI6RoVxLuslCi1w/view?usp=share_link)
-<!--
-[Take the quiz!](quiz.qmd){.btn-scilife .btn role="button"}
 
+## Challenging Samples Discussion
+As for the [Challenging Samples Course Stream](module2.qmd), prior to the course the AssemblyLink method was tested by the participating institutions. Below are the presentations of these results.
+
+Morten Skage, University of Oslo, [presenting results from AssemblyLink on Fish Blood](https://drive.google.com/file/d/1vvJfDGH8jaVG7hZ7dKY29PLT1KdAbt7A/view?usp=share_link)
+
+Cantata Bio [tested the worm and algae samples](https://drive.google.com/file/d/1cn_TZnpGodunQdl-46eXS7oPY4WmoP_7/view?usp=share_link), and Lily Shiue presents AssemblyLink results with Meara and Algae.
+
+<!--
+## Full AssemblyLink HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=w4taKJ-B-_8ywFLD&amp;list=PL1nnHOyxN_WdqnzLqbmWJz_i0f2anT9cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
+
+### Citation
+The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.
+
+The video materials from this course are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite the course material as:
+
+> Lily Shiue, Maria Laura Aguilera Gil, Laurie Bertrand, Eunkyong Choi, Carmela Gissi, Maria Gyftea, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab AssemblyLink HiC Course*. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module3.html

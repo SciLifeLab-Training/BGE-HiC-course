@@ -4,7 +4,14 @@
     "href": "module3.html",
     "title": "AssemblyLink",
     "section": "",
-    "text": "Important\n\n\n\nThis course stream is currently in post-production and will be available August 2025\n\n\n\n\n\n\n\nIn this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.\n\n\n\n\n\n\nNote\n\n\n\n\nThe course material is organized from this group’s sample preparation to results discussion to demonstrate the protocol, with extra videos of troubleshooting.\nSkip to the full course playlist section to watch the full AssemblyLink course!\n\n\n\n\nTissue preparation\nSample preparation was performed by each participant according to how they usually disrupt tissues.\nHerring tissue was disrupted in a mortar and pestle on wet ice with addition of liquid nitrogen. Runtime: 8.5 minutes.\nSample preparation: Herring\nReindeer heart tissue was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 10 minutes.\nSample preparation: Reindeer heart\nReindeer spleen tissue was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 7.5 minutes.\nSample preparation: Reindeer Spleen\nThe small krill sample was disrupted in a mortar and pestle laying in liquid nitrogen. Runtime: 7 minutes.\nSample preparation: Krill\nThe moose sample was preserved in ethanol. It was washed in PBS and disrupted in in a mortar and pestle laying in liquid nitrogen. Runtime: 7 minutes.\nSample preparation: Moose\n\n\nLysate preparation\nThe AssemblyLink protocol was used when crosslinking and creating a lysate from the samples. Maria Gyftea demonstrates this protocol on the krill sample, including discussion with Lily. Runtime: 17 minutes.\nSample preparation\n\n\nLysate QC\nThe quality control protocol is performed on all samples in order to check if enough lysate has been created for the downstream procedures, and to determine its concentration and quality. The lysates are found to have very low yields. Runtime: 15.5 minutes.\nLysate QC 7\nThe lysates are run on the bioanalyzer to determine the quality of the lysate, and found to be underdigested. Runtime: 4 minutes.\nDiscussion of QC Results 8\n\n\nProximity Ligations\nWhile Lily repeats the AssemblyLink Sample preparation with higher input, the herring and reindeer spleen samples are chosen to proceed with the protocol. In the first step, chromatin capture is performed. Runtime: 4.5 minutes.\nChromatin Capture 9\nIn the next step, three ligation reactions and the crosslinking reversal reaction are performed. Runtime: 11 minutes.\nProximity Ligations 10\nFinally, the DNA is purified from the sample lysate. Runtime: 7 minutes.\nDNA Purification 11\n\n\nLibrary Preparation\nIn the final step of the protocol performed during the course, library preparation is performed on the herring and reindeer spleen samples from the first round. The protocol is performed up until the Index PCR stage, at which point the samples were stored for further analysis. Runtime: 8.5 minutes.\nLibrary Preparation 13\n\n\nTroubleshooting and additional attempts\nThe results of increasing input are not promising, as the samples are still underdigested. The AssemblyLink group discusses possible additions and controls. Runtime: 8 minutes.\nDiscussion of Results 2 12\nA third attempt is performed on the herring and reindeer spleen tissues with the inclusion of the cell isolation module. Additional controls and discussion is included, and we recommend watching the first sample preparation video first! Runtime: 24 minutes.\nSample Preparation 2 14\nLily Shiue, presenting the AssemblyLink HiC lab results"
+    "text": "Important\n\n\n\nThis course stream is currently in post-production and will be available August 2025\nIn this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.\nFilming was performed by Maria Gyftea and Lily Shiue."
+  },
+  {
+    "objectID": "module3.html#challenging-samples-discussion",
+    "href": "module3.html#challenging-samples-discussion",
+    "title": "AssemblyLink",
+    "section": "Challenging Samples Discussion",
+    "text": "Challenging Samples Discussion\nAs for the Challenging Samples Course Stream, prior to the course the AssemblyLink method was tested by the participating institutions. Below are the presentations of these results.\nMorten Skage, University of Oslo, presenting results from AssemblyLink on Fish Blood\nCantata Bio tested the worm and algae samples, and Lily Shiue presents AssemblyLink results with Meara and Algae.\n\n\nCitation\nThe AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.\nThe video materials from this course are available for reuse under \nPlease cite the course material as:\n\nLily Shiue, Maria Laura Aguilera Gil, Laurie Bertrand, Eunkyong Choi, Carmela Gissi, Maria Gyftea, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab AssemblyLink HiC Course. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module3.html"
   },
   {
     "objectID": "module2.html",
@@ -21,11 +28,58 @@
     "text": "Challenging Samples Material\n\nSample preparation\nEight challenging sample types were processed for Hi-C using the Arima High Coverage HiC protocol. Watch the following videos for a walkthrough of each sample up to the crosslinking step.\n\n\n\n\n\n\n\n\nPreparation\nInfo\nRuntime\n\n\n\n\nLichen\nTwo lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle.\n30min\n\n\nFlustra\nThe Flustra sample was ground using liquid nitrogen as for the Lichen samples\n3min\n\n\nSponge\nA sponge was processed using the “squeeze method”; a gentle extraction of nuclei from the sponge skeleton\n25min\n\n\nAlgae (slime)\nProcessing of an algae that produces an extracellular matrix.\n5min\n\n\nMosquito\nSample processing of mosquitos. Two different sample preparations were performed.\n12min\n\n\nWorm\nDiscussion of sample processing - one individual crosslinked in its entirety and dissolved easily without further disruption.\n3min\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSample preparation for herring, krill, moose, reindeer spleen and heart can be found in the AssemblyLink Sample Preparation.\n\n\nSample crosslinking - The eight sample types were batch processed from the crosslinking stage onwards. Includes discussion on handling insects, low input samples, recommended equipment, and sticky pellets. Runtime: 25 minutes.\n\n\nEstimating Input\nEstimating input - The estimating input protocol was performed on the two lichen samples. Runtime: 20 minutes.\n\n\nHiC Reactions\nHiC reactions - Follow the challenging samples group as they perform the enzymatic reactions on the challenging samples. Kai from Arima joins for day 3 of the protocol! Runtime: 50 minutes.\n\n\nQC1\nQC1 protocol and discussion for challenging samples - The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 13 minutes.\nGiada Ferrari, presenting the Challenging Samples lab results - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes."
   },
   {
+    "objectID": "module2.html#challenging-samples-discussion",
+    "href": "module2.html#challenging-samples-discussion",
+    "title": "Challenging Samples HiC Course",
+    "section": "Challenging Samples Discussion",
+    "text": "Challenging Samples Discussion\nPrior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes.\n\n\n\n\n\n\n\n\nOrganisms\nPresented by\nRuntime\n\n\n\n\nPlants and Algae\nKarine Labadie, Genoscope\n-\n\n\nPlants and Lichens\nIrene Fabiola Roman Maldonado, The Sanger Institute\n-\n\n\nCoral and Sponge\nBrian Kilburn, Arima\n-\n\n\nJellyfish and Coral\nKarine Labadie, Genoscope\n-\n\n\nMonogyna spp.\nMorten Skage, University of Oslo\n-\n\n\n\nMorten Skage, University of Oslo, presents considerations for how to define and approach challenging samples"
+  },
+  {
     "objectID": "module2.html#full-challenging-samples-hic-playlist",
     "href": "module2.html#full-challenging-samples-hic-playlist",
     "title": "Challenging Samples HiC Course",
     "section": "Full Challenging Samples HiC Playlist",
     "text": "Full Challenging Samples HiC Playlist\n\n\n\nCitation\nThe Arima HiC protocol shown in this course is © 2019, Arima Genomics, Inc. All rights reserved.\nThe video materials from this course are available for reuse under \nPlease cite the course material as:\n\nGiada Ferrari, Brian Kilburn, Tuuli Lundback-Lärva, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab Challenging Samples HiC Course. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module2.html"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Digitized Course Information",
+    "section": "",
+    "text": "This course has been released as an Open Educational Resource. Below you can find the metadata, including access & reuse information.\n\n\n\n\n\n\n\n\nTitle: Biodiversity Genomics Europe and SciLifeLab Hi-C Course  Description: A course aiming to provide open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.  Authors: Maria Laura Aguilera Gil4, Lorenzo Ballini8 , Laurie Bertrand3 , Simona Buonanno7, Eunkyong Choi6, Annunziata Deluisi7, Giada Ferrari9 , Leonardo Girlanda8 , Carmela Gissi7 , Maria Gyftea6, Brian Kilburn1, Karine Labadie3 , Tuuli Lundback-Lärva6, Graeme Oatley5 , Fernando Cruz Rodriguez4, Irene Fabiola Roman Maldonado5 , Lily Shiue2, Morten Skage9, Pamela Veneziano Broccia4 , Ave Tooming-Klunderud9 , Olga Vinnere Pettersson6   1 Arima Genomics (US) 2 Cantata Bio (UK) 3 Genoscope (FR) 4 National Center for Genomic Analysis (ES) 5 Sanger Institute (UK) 6 SciLifeLab (SE) 7 University of Bari Aldo Moro (IT) 8 University of Florence (IT) 9 University of Oslo (NO)  Author contact details: olga.pettersson@igp.uu.se Contributors: Kristen Schroeder1 , Jill Jaworski1 , Hampus Pehrsson Ternström1 1 SciLifeLab (SE) Type: Video  Language: English  Keywords: Hi-C, genomics, biodiversity, sequencing  Content provider: SciLifeLab and Biodiversity Genomics Europe consortium  Date created: June 9-14, 2024  Date published: August 31, 2025 \n\n\n\n\n\n\n\n\n\n\n\n\nTarget audience: Researchers with an interest in starting or continuing with Hi-C technique for non-model organisms in their research. Course streams include introductory, intermediate, and advanced levels.  Structure and duration: Introductory stream - 2h40m video content  Challenging Sample stream - 3h20m video content AssemblyLink stream - (TBD)  Discussion content - (TBD)  Expertise/skill level: Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices. \n\n\n\n\n\n\n\n\n\n\n\n\nURL to OER: https://scilifelab-training.github.io/BGE-HiC-course/  DOI: 10.5281/zenodo.14643654  Access cost: No  Events: None\n\n\n\n\n\n\n\n\n\n\n\n\nLicensing and reuse details: The Arima HiC protocol used in this course is © 2019, Arima Genomics, Inc. All rights reserved. The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.  The video materials from this course are available for reuse under  Preferred citation: For citation of the entire course material, please use:\n\nMaria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab HiC Course. DOI:10.5281/zenodo.14643654. \n\nDate of last revision: Aug 31, 2025  Status: Under development Modification contact: training.hub@scilifelab.se",
+    "crumbs": [
+      "Digitized Course Information"
+    ]
+  },
+  {
+    "objectID": "about.html#course-information-and-metadata",
+    "href": "about.html#course-information-and-metadata",
+    "title": "Digitized Course Information",
+    "section": "",
+    "text": "This course has been released as an Open Educational Resource. Below you can find the metadata, including access & reuse information.\n\n\n\n\n\n\n\n\nTitle: Biodiversity Genomics Europe and SciLifeLab Hi-C Course  Description: A course aiming to provide open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.  Authors: Maria Laura Aguilera Gil4, Lorenzo Ballini8 , Laurie Bertrand3 , Simona Buonanno7, Eunkyong Choi6, Annunziata Deluisi7, Giada Ferrari9 , Leonardo Girlanda8 , Carmela Gissi7 , Maria Gyftea6, Brian Kilburn1, Karine Labadie3 , Tuuli Lundback-Lärva6, Graeme Oatley5 , Fernando Cruz Rodriguez4, Irene Fabiola Roman Maldonado5 , Lily Shiue2, Morten Skage9, Pamela Veneziano Broccia4 , Ave Tooming-Klunderud9 , Olga Vinnere Pettersson6   1 Arima Genomics (US) 2 Cantata Bio (UK) 3 Genoscope (FR) 4 National Center for Genomic Analysis (ES) 5 Sanger Institute (UK) 6 SciLifeLab (SE) 7 University of Bari Aldo Moro (IT) 8 University of Florence (IT) 9 University of Oslo (NO)  Author contact details: olga.pettersson@igp.uu.se Contributors: Kristen Schroeder1 , Jill Jaworski1 , Hampus Pehrsson Ternström1 1 SciLifeLab (SE) Type: Video  Language: English  Keywords: Hi-C, genomics, biodiversity, sequencing  Content provider: SciLifeLab and Biodiversity Genomics Europe consortium  Date created: June 9-14, 2024  Date published: August 31, 2025 \n\n\n\n\n\n\n\n\n\n\n\n\nTarget audience: Researchers with an interest in starting or continuing with Hi-C technique for non-model organisms in their research. Course streams include introductory, intermediate, and advanced levels.  Structure and duration: Introductory stream - 2h40m video content  Challenging Sample stream - 3h20m video content AssemblyLink stream - (TBD)  Discussion content - (TBD)  Expertise/skill level: Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices. \n\n\n\n\n\n\n\n\n\n\n\n\nURL to OER: https://scilifelab-training.github.io/BGE-HiC-course/  DOI: 10.5281/zenodo.14643654  Access cost: No  Events: None\n\n\n\n\n\n\n\n\n\n\n\n\nLicensing and reuse details: The Arima HiC protocol used in this course is © 2019, Arima Genomics, Inc. All rights reserved. The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.  The video materials from this course are available for reuse under  Preferred citation: For citation of the entire course material, please use:\n\nMaria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab HiC Course. DOI:10.5281/zenodo.14643654. \n\nDate of last revision: Aug 31, 2025  Status: Under development Modification contact: training.hub@scilifelab.se",
+    "crumbs": [
+      "Digitized Course Information"
+    ]
+  },
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Course Instructors",
+    "section": "",
+    "text": "This course was made possible by the assembled scientific expertise from five institutions across Europe and the UK, as well as two industrial partners.\n\nMorten Skage\n\n\n\n\n\n\nMorten is Head Engineer at the Norwegian Sequencing Centre. He teaches the Introductory HiC course.\n\n\n\n\n\nIrene Fabiola Roman Maldonado\n\n\n\n\n\n\nIrene is an Advanced Research Assistant at the Sanger Institute. She teaches the Introductory HiC Course.\n\n\n\n\n\nKarine Labadie\n\n\n\n\n\n\nKarine is a Researcher and Production Manager at Genoscope. She assists with the Introductory HiC course, and provides scientific input to the other course streams.\n\n\n\n\n\nCourse Coordinators\n\nOlga Vinnere Pettersson\n\n\n\n\n\n\nOlga is Scientific Lead for the SciLifeLab Planetary Biology Capability. She is the course organizer and provides scientific expertise on HiC throughout all course streams.\n\n\n\n\n\nAve Tooming-Klunderud\n\n\n\n\n\n\nAve is Senior Engineer at the Centre for Ecological and Evolutionary Synthesis and Norwegian Sequencing Centre. While she doesn’t appear on film, Ave was instrumental in producing this HiC course.",
+    "crumbs": [
+      "Course Instructors"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BGE + SciLifeLab Hi-C Course",
+    "section": "",
+    "text": "Welcome to the Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course!\nWith the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, openly available to all.\n\n\n\n\n\n\nImportant\n\n\n\n\nThe Introductory HiC Course stream is now available!\nThe Challenging Samples HiC Course stream is now available!\nParts of the course are currently in post-production and available for participants only, until review and approval (release date expected August 2025)\n\n\n\n\n\n\nParticipants of the 2024 HiC Course. Photo by Hampus Pehrsson Ternström\n\n\n\n\nIntroduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson\n\n\n\n\n\nDOI",
+    "crumbs": [
+      "BGE + SciLifeLab Hi-C Course"
+    ]
   },
   {
     "objectID": "module1.html",
@@ -49,70 +103,43 @@
     "text": "Full Introductory HiC Playlist\n\n\n\nCitation\nThe Arima HiC protocol shown in this course is © 2019, Arima Genomics, Inc. All rights reserved.\nThe video materials from this course are available for reuse under \nPlease cite the course material as:\n\nMorten Skage, Irene Fabiola Roman Maldonado, Karine Labadie, Simona Buonanno, Lorenzo Ballini, Annunziata Deluisi, Leonardo Girlanda, Graeme Oatley, Fernando Cruz Rodriguez, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab Introductory HiC Course. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module1.html"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BGE + SciLifeLab Hi-C Course",
-    "section": "",
-    "text": "Welcome to the Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course!\nWith the collaboration of five research institutes, two industry partners, and several Universities, three streams of the HiC technique were filmed in 2024 onsite at BMC Uppsala. These have been digitized and are now being made available as a digital course, openly available to all.\n\n\n\n\n\n\nImportant\n\n\n\n\nThe Introductory HiC Course stream is now available!\nThe Challenging Samples HiC Course stream is now available!\nParts of the course are currently in post-production and available for participants only, until review and approval (release date expected August 2025)\n\n\n\n\n\n\nParticipants of the 2024 HiC Course. Photo by Hampus Pehrsson Ternström\n\n\n\n\nIntroduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson\n\n\n\n\n\nDOI",
-    "crumbs": [
-      "BGE + SciLifeLab Hi-C Course"
-    ]
-  },
-  {
-    "objectID": "instructors.html",
-    "href": "instructors.html",
-    "title": "Course Instructors",
-    "section": "",
-    "text": "This course was made possible by the assembled scientific expertise from five institutions across Europe and the UK, as well as two industrial partners.\n\nMorten Skage\n\n\n\n\n\n\nMorten is Head Engineer at the Norwegian Sequencing Centre. He teaches the Introductory HiC course.\n\n\n\n\n\nIrene Fabiola Roman Maldonado\n\n\n\n\n\n\nIrene is an Advanced Research Assistant at the Sanger Institute. She teaches the Introductory HiC Course.\n\n\n\n\n\nKarine Labadie\n\n\n\n\n\n\nKarine is a Researcher and Production Manager at Genoscope. She assists with the Introductory HiC course, and provides scientific input to the other course streams.\n\n\n\n\n\nCourse Coordinators\n\nOlga Vinnere Pettersson\n\n\n\n\n\n\nOlga is Scientific Lead for the SciLifeLab Planetary Biology Capability. She is the course organizer and provides scientific expertise on HiC throughout all course streams.\n\n\n\n\n\nAve Tooming-Klunderud\n\n\n\n\n\n\nAve is Senior Engineer at the Centre for Ecological and Evolutionary Synthesis and Norwegian Sequencing Centre. While she doesn’t appear on film, Ave was instrumental in producing this HiC course.",
-    "crumbs": [
-      "Course Instructors"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Digitized Course Information",
-    "section": "",
-    "text": "This course has been released as an Open Educational Resource. Below you can find the metadata, including access & reuse information.\n\n\n\n\n\n\n\n\nTitle: Biodiversity Genomics Europe and SciLifeLab Hi-C Course  Description: A course aiming to provide open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.  Authors: Maria Laura Aguilera Gil4, Lorenzo Ballini8 , Laurie Bertrand3 , Simona Buonanno7, Eunkyong Choi6, Annunziata Deluisi7, Giada Ferrari9 , Leonardo Girlanda8 , Carmela Gissi7 , Maria Gyftea6, Brian Kilburn1, Karine Labadie3 , Tuuli Lundback-Lärva6, Graeme Oatley5 , Fernando Cruz Rodriguez4, Irene Fabiola Roman Maldonado5 , Lily Shiue2, Morten Skage9, Pamela Veneziano Broccia4 , Ave Tooming-Klunderud9 , Olga Vinnere Pettersson6   1 Arima Genomics (US) 2 Cantata Bio (UK) 3 Genoscope (FR) 4 National Center for Genomic Analysis (ES) 5 Sanger Institute (UK) 6 SciLifeLab (SE) 7 University of Bari Aldo Moro (IT) 8 University of Florence (IT) 9 University of Oslo (NO)  Author contact details: olga.pettersson@igp.uu.se Contributors: Kristen Schroeder1 , Jill Jaworski1 , Hampus Pehrsson Ternström1 1 SciLifeLab (SE) Type: Video  Language: English  Keywords: Hi-C, genomics, biodiversity, sequencing  Content provider: SciLifeLab and Biodiversity Genomics Europe consortium  Date created: June 9-14, 2024  Date published: August 31, 2025 \n\n\n\n\n\n\n\n\n\n\n\n\nTarget audience: Researchers with an interest in starting or continuing with Hi-C technique for non-model organisms in their research. Course streams include introductory, intermediate, and advanced levels.  Structure and duration: Introductory stream - 2h40m video content  Challenging Sample stream - 3h20m video content AssemblyLink stream - (TBD)  Discussion content - (TBD)  Expertise/skill level: Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices. \n\n\n\n\n\n\n\n\n\n\n\n\nURL to OER: https://scilifelab-training.github.io/BGE-HiC-course/  DOI: 10.5281/zenodo.14643654  Access cost: No  Events: None\n\n\n\n\n\n\n\n\n\n\n\n\nLicensing and reuse details: The Arima HiC protocol used in this course is © 2019, Arima Genomics, Inc. All rights reserved. The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.  The video materials from this course are available for reuse under  Preferred citation: For citation of the entire course material, please use:\n\nMaria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab HiC Course. DOI:10.5281/zenodo.14643654. \n\nDate of last revision: Aug 31, 2025  Status: Under development Modification contact: training.hub@scilifelab.se",
-    "crumbs": [
-      "Digitized Course Information"
-    ]
-  },
-  {
-    "objectID": "about.html#course-information-and-metadata",
-    "href": "about.html#course-information-and-metadata",
-    "title": "Digitized Course Information",
-    "section": "",
-    "text": "This course has been released as an Open Educational Resource. Below you can find the metadata, including access & reuse information.\n\n\n\n\n\n\n\n\nTitle: Biodiversity Genomics Europe and SciLifeLab Hi-C Course  Description: A course aiming to provide open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers.  Authors: Maria Laura Aguilera Gil4, Lorenzo Ballini8 , Laurie Bertrand3 , Simona Buonanno7, Eunkyong Choi6, Annunziata Deluisi7, Giada Ferrari9 , Leonardo Girlanda8 , Carmela Gissi7 , Maria Gyftea6, Brian Kilburn1, Karine Labadie3 , Tuuli Lundback-Lärva6, Graeme Oatley5 , Fernando Cruz Rodriguez4, Irene Fabiola Roman Maldonado5 , Lily Shiue2, Morten Skage9, Pamela Veneziano Broccia4 , Ave Tooming-Klunderud9 , Olga Vinnere Pettersson6   1 Arima Genomics (US) 2 Cantata Bio (UK) 3 Genoscope (FR) 4 National Center for Genomic Analysis (ES) 5 Sanger Institute (UK) 6 SciLifeLab (SE) 7 University of Bari Aldo Moro (IT) 8 University of Florence (IT) 9 University of Oslo (NO)  Author contact details: olga.pettersson@igp.uu.se Contributors: Kristen Schroeder1 , Jill Jaworski1 , Hampus Pehrsson Ternström1 1 SciLifeLab (SE) Type: Video  Language: English  Keywords: Hi-C, genomics, biodiversity, sequencing  Content provider: SciLifeLab and Biodiversity Genomics Europe consortium  Date created: June 9-14, 2024  Date published: August 31, 2025 \n\n\n\n\n\n\n\n\n\n\n\n\nTarget audience: Researchers with an interest in starting or continuing with Hi-C technique for non-model organisms in their research. Course streams include introductory, intermediate, and advanced levels.  Structure and duration: Introductory stream - 2h40m video content  Challenging Sample stream - 3h20m video content AssemblyLink stream - (TBD)  Discussion content - (TBD)  Expertise/skill level: Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices. \n\n\n\n\n\n\n\n\n\n\n\n\nURL to OER: https://scilifelab-training.github.io/BGE-HiC-course/  DOI: 10.5281/zenodo.14643654  Access cost: No  Events: None\n\n\n\n\n\n\n\n\n\n\n\n\nLicensing and reuse details: The Arima HiC protocol used in this course is © 2019, Arima Genomics, Inc. All rights reserved. The AssemblyLink protocol used in this course is © 2024, Cantata Bio, LLC. All rights reserved.  The video materials from this course are available for reuse under  Preferred citation: For citation of the entire course material, please use:\n\nMaria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). Biodiversity Genomics Europe and SciLifeLab HiC Course. DOI:10.5281/zenodo.14643654. \n\nDate of last revision: Aug 31, 2025  Status: Under development Modification contact: training.hub@scilifelab.se",
-    "crumbs": [
-      "Digitized Course Information"
-    ]
-  },
-  {
-    "objectID": "knowledgesharing.html",
-    "href": "knowledgesharing.html",
-    "title": "Knowledge sharing",
-    "section": "",
-    "text": "Important\n\n\n\nThis section is currently in post-production and will be available August 2025\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nTwo days of the course were spent in discussion and presentations where groups could share sample preparation tips, obstacles, and data\nSkip to the full course playlist section to watch the full AssemblyLink course!\n\n\n\n\nProtocol differences\nA representative from each institution presented the specifics of their sample handling. Fernando Cruz Rodriguez presented a bioinformaticians view of HiC QC.\nKarine Labadie, Genoscope, presenting tissue grinding\nGiada Ferrari, University of Oslo, presenting nuclei isolation used with plants\nFernando Cruz, CNAG, presenting a bioinformatic view of HiC QC\n\n\nChallenging Samples\nEach institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes.\nMorten Skage, University of Oslo, presenting results from Monogyna spp.\nMorten Skage, University of Oslo, presenting results from AssemblyLink on Fish Blood\nKarine Labadie, Genoscope, presenting Plant and Lichen samples\nIrene Fabiola Roman Maldonado, Sanger Institute, presenting plant and lichen protocols\nLily Shiue, Dovetail, presenting AssemblyLink results with Meara and Algae\nMorten Skage, University of Oslo, presents how to define and approach challenging samples\nBrian Kilburn, Arima, presents on coral and sponge samples"
-  },
-  {
     "objectID": "protocols.html",
     "href": "protocols.html",
-    "title": "Protocol Information",
+    "title": "Protocol Knowledge",
     "section": "",
     "text": "Important\n\n\n\nThis section is currently in post-production and will be available August 2025",
     "crumbs": [
-      "Protocol Information"
+      "Protocol Knowledge"
     ]
   },
   {
-    "objectID": "protocols.html#presentations-on-hic-protocols-used-in-this-course",
-    "href": "protocols.html#presentations-on-hic-protocols-used-in-this-course",
-    "title": "Protocol Information",
-    "section": "Presentations on HiC protocols used in this course",
-    "text": "Presentations on HiC protocols used in this course\nThe companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.\n\nAssemblyLink - Cantata Bio\n\n\n\n\n\n\nMiles Collier, Cantata Bio, presents on AssemblyLink\n\n\n\nThe AssemblyLink protocol used in this course can be found here.\n\n\nArima Genomics\n\n\n\n\n\n\nBrian Kilburn, Arima Genomics, presents on the Arima HiC protocol.\n\n\n\nThe Arima HiC protocol used in this course can be found here.",
+    "objectID": "protocols.html#hic-chemistry-and-validation",
+    "href": "protocols.html#hic-chemistry-and-validation",
+    "title": "Protocol Knowledge",
+    "section": "HiC chemistry and validation",
+    "text": "HiC chemistry and validation\nThe companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.\n\nAssemblyLink - Cantata Bio\n\n\n\n\n\n\nMiles Collier, Cantata Bio, presents on AssemblyLink\n\n\n\nThe AssemblyLink protocol used in this course can be found here.\n\n\nArima Genomics\n\n\n\n\n\n\nBrian Kilburn, Arima Genomics, presents on the Arima HiC protocol.\n\n\n\nThe Arima HiC protocol used in this course can be found here.",
     "crumbs": [
-      "Protocol Information"
+      "Protocol Knowledge"
+    ]
+  },
+  {
+    "objectID": "protocols.html#protocol-adaptations-and-tips",
+    "href": "protocols.html#protocol-adaptations-and-tips",
+    "title": "Protocol Knowledge",
+    "section": "Protocol adaptations and tips",
+    "text": "Protocol adaptations and tips\nA representative from each institution presented specific adaptations and information on best practices for their sample processing. Fernando Cruz Rodriguez presented a bioinformaticians view of HiC QC.\n\n\n\n\n\n\n\n\nPractice\nPresented by\nRuntime\n\n\n\n\nConsiderations for tissue grinding\nKarine Labadie, Genoscope\n-\n\n\nNuclei isolation from plant samples\nGiada Ferrari, University of Oslo\n-\n\n\nA bioinformatic view of HiC QC\nFernando Cruz, CNAG\n-\n\n\nUltra low input samples\nIrene Fabiola Roman Maldonado, The Sanger Institute\n-",
+    "crumbs": [
+      "Protocol Knowledge"
+    ]
+  },
+  {
+    "objectID": "protocols.html#full-hic-protocol-knowledge-playlist",
+    "href": "protocols.html#full-hic-protocol-knowledge-playlist",
+    "title": "Protocol Knowledge",
+    "section": "Full HiC Protocol Knowledge Playlist",
+    "text": "Full HiC Protocol Knowledge Playlist",
+    "crumbs": [
+      "Protocol Knowledge"
     ]
   }
 ]

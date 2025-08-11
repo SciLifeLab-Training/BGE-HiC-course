@@ -1,12 +1,12 @@
 ---
-title: "Protocol Information"
+title: "Protocol Knowledge"
 ---
 
 ::: {.callout-important}
 This section is currently in post-production and will be available August 2025
 :::
 
-## Presentations on HiC protocols used in this course
+## HiC chemistry and validation
 The companies producing and validating the protocols and chemistries used in the course presented about their kits. To view these presentations, including an overview of the chemistry as well as validation information, please see the videos linked below.
 
 ### AssemblyLink - Cantata Bio
@@ -28,17 +28,16 @@ The AssemblyLink protocol used in this course can be [found here](https://cantat
 </table>
 The Arima HiC protocol used in this course can be [found here](https://arimagenomics.com/wp-content/files/User-Guide-Arima-HiC-for-Animal-Tissues.pdf).
 
-<!--
-#### Protocols shared by the HiC Course Group
-Validated protocols from Irene (Sanger Institute)
+## Protocol adaptations and tips
+A representative from each institution presented specific adaptations and information on best practices for their sample processing. Fernando Cruz Rodriguez presented a bioinformaticians view of HiC QC.
 
-[HiC for Vertebrates, Invertebrates, Coral, and Fungi](https://drive.google.com/file/d/1IWSJfLtdzzDYg__ycGZelJ3RjhO_g4eA/view?usp=share_link)
+| Practice | Presented by | Runtime |
+|------|------| ------|
+|[Considerations for tissue grinding](https://drive.google.com/file/d/1bxRZR1gH19kbjjidTx2FqNuE12He_bvx/view?usp=share_link)| Karine Labadie, Genoscope | - |
+|[Nuclei isolation from plant samples](https://drive.google.com/file/d/1j1Kyrq_bXbUKnF3Br8rWYhXlJES3FCrj/view?usp=share_link)| Giada Ferrari, University of Oslo | - |
+|[A bioinformatic view of HiC QC](https://drive.google.com/file/d/1bDYEGac-cAr6W5AmN2XFxG3qLU5Rky-m/view?usp=share_link)| Fernando Cruz, CNAG | - |
+| [Ultra low input samples]()| Irene Fabiola Roman Maldonado, The Sanger Institute | - |
+: {tbl-colwidths="[50,40,10]"}
 
-[HiC for Plants & Protists](https://drive.google.com/file/d/1gdrND_-bPwM6ZWUu9EuUtF_9FLlpiRm8/view?usp=share_link)
-
-[HiC for Cells and Sponges](https://drive.google.com/file/d/1QSN-Omm_0FIiiM74EoLEE_iGIiWDOEQN/view?usp=share_link)
-
-[HiC for Low Input Plants](https://drive.google.com/file/d/1LSKKbilkW87hpxuhmFgZ4tOus6WNe3sy/view?usp=share_link)
-
-[HiC for Blood](https://drive.google.com/file/d/165Rdt4LdOYg67Isu7wI81UtGRzg6Ke0a/view?usp=share_link)
--->
+## Full HiC Protocol Knowledge Playlist
+<iframe width="560" height="315" src="--" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
