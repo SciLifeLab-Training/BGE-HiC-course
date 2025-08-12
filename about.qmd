@@ -34,6 +34,13 @@ This course has been released as an Open Educational Resource. Below you can fin
 
 ### Educational
 ::: {.callout-note appearance="simple" icon=false}
+**Learning outcomes:** By the end of the course, participants will be able to: 
+
+- independently prepare HiC libraries of low-complexity samples.
+- prepare HiC libraries at their home labs.
+- understand the most crucial steps of the protocol 
+- troubleshoot crucial steps of the protocol in their home labs when applied to high-complexity samples
+
 **Target audience:** Researchers with an interest in starting or continuing with Hi-C technique for non-model organisms in their research. Course streams include introductory, intermediate, and advanced levels. <br>
 **Structure and duration:**
 Introductory stream - 2h40m video content <br>
@@ -42,7 +49,6 @@ AssemblyLink stream - (TBD) <br>
 Discussion content - (TBD) <br>
 **Expertise/skill level:** Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices.
 <!--
-learning outcomes
 prereqs knowledge
 prereqs technical
 associated resources

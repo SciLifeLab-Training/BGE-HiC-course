@@ -55,4 +55,4 @@ The video materials from this course are available for reuse under <a href="http
 
 Please cite the course material as:
 
-> Morten Skage, Irene Fabiola Roman Maldonado, Karine Labadie, Simona Buonanno, Lorenzo Ballini, Annunziata Deluisi, Leonardo Girlanda, Graeme Oatley, Fernando Cruz Rodriguez, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab Introductory HiC Course*. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module1.html
+> Morten Skage, Irene Fabiola Roman Maldonado, Karine Labadie, Lorenzo Ballini, Simona Buonanno, Fernando Cruz Rodriguez, Annunziata Deluisi, Leonardo Girlanda, Graeme Oatley, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab Introductory HiC Course*. Retrieved from https://scilifelab-training.github.io/BGE-HiC-Course/module1.html
