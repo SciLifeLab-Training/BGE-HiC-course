@@ -59,7 +59,7 @@ additional information
 ### Access
 ::: {.callout-note appearance="simple" icon=false}
 **URL to OER:** https://scilifelab-training.github.io/BGE-HiC-course/ <br>
-**DOI:** 10.5281/zenodo.14643654 <br>
+**DOI:** https://doi.org/10.5281/zenodo.14643653 <br>
 **Access cost:** No <br> 
 **Events:** None<br>
 :::
@@ -71,7 +71,7 @@ additional information
 The video materials from this course are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a><br>
 **Preferred citation:** For citation of the entire course material, please use:
 
-> Maria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab HiC Course*. DOI:10.5281/zenodo.14643654. <br>
+> Maria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab HiC Course*. DOI:10.5281/zenodo.14643653. <br>
 
 **Date of last revision:** Aug 31, 2025 <br>
 **Status:** Under development<br>

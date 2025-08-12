@@ -19,4 +19,4 @@ With the collaboration of five research institutes, two industry partners, and s
 #### Introduction to SciLifeLab and the HiC Course from Olga Vinnere Pettersson
 <iframe src="https://drive.google.com/file/d/18NE5OAxyihAB0uH5q6IqpJASXsrORjzK/preview" width="560" height="315" allow="autoplay"></iframe>
 
-[![DOI](https://zenodo.org/badge/823634608.svg)](https://doi.org/10.5281/zenodo.14643653)
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.16812053.svg)](https://doi.org/10.5281/zenodo.14643653)
