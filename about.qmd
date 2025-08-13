@@ -9,7 +9,7 @@ This course has been released as an Open Educational Resource. Below you can fin
 ::: {.callout-note appearance="simple" icon=false}
 **Title: Biodiversity Genomics Europe and SciLifeLab Hi-C Course** <br>
 **Description:** A course aiming to provide open, sustainable training in laboratory preparation of Hi-C libraries for reference genome sequencing of non-model organisms for BGE partner sequencing centers. <br>
-**Authors:** Maria Laura Aguilera Gil<sup>4</sup>, Lorenzo Ballini<sup>8</sup> <a href="https://orcid.org/0009-0009-5400-2128" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Laurie Bertrand<sup>3</sup> <a href="https://orcid.org/0000-0002-4550-761X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Simona Buonanno<sup>7</sup>, Eunkyong Choi<sup>6</sup>, Annunziata Deluisi<sup>7</sup>, Giada Ferrari<sup>9</sup> <a href="https://orcid.org/0000-0002-0850-1518" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Leonardo Girlanda<sup>8</sup> <a href="https://orcid.org/0009-0009-8934-1875" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Carmela Gissi<sup>7</sup> <a href="https://orcid.org/0000-0002-2269-079X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Maria Gyftea<sup>6</sup>, Brian Kilburn<sup>1</sup>, Karine Labadie<sup>3</sup> <a href="https://orcid.org/0000-0001-7467-8509" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Tuuli Lundback-Lärva<sup>6</sup>, Graeme Oatley<sup>5</sup> <a href="https://orcid.org/0000-0003-0896-9994" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Fernando Cruz Rodriguez<sup>4</sup>, Irene Fabiola Roman Maldonado<sup>5</sup> <a href="https://orcid.org/0000-0001-5835-3560" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Lily Shiue<sup>2</sup>, Morten Skage<sup>9</sup>, Pamela Veneziano Broccia<sup>4</sup> <a href="https://orcid.org/0000-0002-3498-7304" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Ave Tooming-Klunderud<sup>9</sup> <a href="https://orcid.org/0009-0008-0057-2873" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Olga Vinnere Pettersson<sup>6</sup> <a href="https://orcid.org/0000-0002-5597-1870" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+**Authors:** Maria Laura Aguilera Gil<sup>4</sup> <a href="https://orcid.org/0000-0002-8631-8778" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Lorenzo Ballini<sup>8</sup> <a href="https://orcid.org/0009-0009-5400-2128" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Laurie Bertrand<sup>3</sup> <a href="https://orcid.org/0000-0002-4550-761X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Simona Buonanno<sup>7</sup>, Eunkyong Choi<sup>6</sup> <a href="https://orcid.org/0009-0007-7147-9468" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Annunziata De Luisi<sup>7</sup>, Giada Ferrari<sup>9</sup> <a href="https://orcid.org/0000-0002-0850-1518" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Leonardo Girlanda<sup>8</sup> <a href="https://orcid.org/0009-0009-8934-1875" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Carmela Gissi<sup>7</sup> <a href="https://orcid.org/0000-0002-2269-079X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Maria Gyftea<sup>6</sup>, Brian Kilburn<sup>1</sup>, Karine Labadie<sup>3</sup> <a href="https://orcid.org/0000-0001-7467-8509" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Tuuli Lundback-Lärva<sup>6</sup> <a href="https://orcid.org/0009-0008-7630-6846" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Graeme Oatley<sup>5</sup> <a href="https://orcid.org/0000-0003-0896-9994" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Fernando Cruz Rodriguez<sup>4</sup> <a href="https://orcid.org/0000-0003-4098-8829" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Irene Fabiola Roman Maldonado<sup>5</sup> <a href="https://orcid.org/0000-0001-5835-3560" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Lily Shiue<sup>2</sup> <a href="https://orcid.org/0000-0002-4480-8920" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Morten Skage<sup>9</sup> <a href="https://orcid.org/0000-0002-5312-8038" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Pamela Veneziano Broccia<sup>4</sup> <a href="https://orcid.org/0000-0002-3498-7304" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Ave Tooming-Klunderud<sup>9</sup> <a href="https://orcid.org/0009-0008-0057-2873" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Olga Vinnere Pettersson<sup>6</sup> <a href="https://orcid.org/0000-0002-5597-1870" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
 <br>
 <sup>1</sup> Arima Genomics (US)<br>
 <sup>2</sup> Cantata Bio (UK)<br>
@@ -42,18 +42,22 @@ This course has been released as an Open Educational Resource. Below you can fin
 - troubleshoot crucial steps of the protocol in their home labs when applied to high-complexity samples
 
 **Target audience:** Researchers with an interest in starting or continuing with Hi-C technique for non-model organisms in their research. Course streams include introductory, intermediate, and advanced levels. <br>
+**Prerequisites - knowledge:** Participants must have: 
+
+- an understanding of fundamental genomics and epigenomics concepts
+- the ability to demonstrate basic laboratory technique, including safe laboratory practices 
+
+Participants should have:
+
+ - an understanding of their local permit and safety requirements for processing and handling samples and reagents for HiC.
+
 **Structure and duration:**
 Introductory stream - 2h40m video content <br>
 Challenging Sample stream - 3h20m video content<br>
 AssemblyLink stream - (TBD) <br>
-Discussion content - (TBD) <br>
-**Expertise/skill level:** Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices.
-<!--
-prereqs knowledge
-prereqs technical
-associated resources
-additional information
--->
+Discussion content - 3h15m video content <br>
+**Expertise/skill level:** Intermediate/Advanced. This course is intended for an audience familiar with labwork and research best practices. <br> 
+**Associated resources:** <br> Arima Genomics Arima High Coverage HiC Kit User Guide for Animal Tissues (Document Part Number A160162 v01) <br>Dovetail AssemblyLink Kit User Guide (Version 1.0 May 30, 2024).
 :::
 
 ### Access
@@ -71,12 +75,11 @@ additional information
 The video materials from this course are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a><br>
 **Preferred citation:** For citation of the entire course material, please use:
 
-> Maria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata Deluisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab HiC Course*. DOI:10.5281/zenodo.14643653. <br>
+> Maria Laura Aguilera Gil, Lorenzo Ballini, Laurie Bertrand, Simona Buonanno, Eunkyong Choi, Annunziata De Luisi, Giada Ferrari, Leonardo Girlanda, Carmela Gissi, Maria Gyftea, Brian Kilburn, Karine Labadie, Tuuli Lundback-Lärva, Graeme Oatley, Fernando Cruz Rodriguez, Irene Fabiola Roman Maldonado, Lily Shiue, Morten Skage, Pamela Veneziano Broccia, Ave Tooming-Klunderud, Olga Vinnere Pettersson (2025). *Biodiversity Genomics Europe and SciLifeLab HiC Course*. DOI:10.5281/zenodo.14643653. <br>
 
 **Date of last revision:** Aug 31, 2025 <br>
 **Status:** Under development<br>
-**Modification contact:** training.hub@scilifelab.se
-<!-- 
-version
--->
+**Modification contact:** training.hub@scilifelab.se<br>
+**Version:** v.1-partial
+
 :::
