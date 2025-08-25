@@ -21,7 +21,7 @@ Eight challenging sample types were processed for Hi-C using the [Arima High Cov
 | Preparation | Info | Runtime |
 |------|------| ------|
 | [Lichen](https://youtu.be/lBVAmwqkWtM) | Two lichen samples were processed by grinding in liquid nitrogen in a mortar and pestle. | 30min |
-| [Flustra](https://youtu.be/w8krCpK1JnQ) | The Flustra sample was ground using liquid nitrogen as for the Lichen samples | 3min |
+| [Flustra](https://youtu.be/w8krCpK1JnQ) | The Flustra sample was ground using liquid nitrogen as for the Lichen samples [^Data^](#data) | 3min |
 | [Sponge](https://youtu.be/X5mpoOm4XaE) | A sponge was processed using the "squeeze method"; a gentle extraction of nuclei from the sponge skeleton | 25min |
 | [Algae (slime)](https://youtu.be/tJ4bPKQfz5o) | Processing of an algae that produces an extracellular matrix. | 5min |
 | [Mosquito](https://youtu.be/4ijoSwjzBuo) | Sample processing of mosquitos. Two different sample preparations were performed. | 12min |
@@ -44,6 +44,15 @@ Sample preparation for herring, krill, moose, reindeer spleen and heart can be f
 [QC1 protocol and discussion for challenging samples](https://youtu.be/45N-Zs4lqwE) - The last step for the challenging reactions is to follow the QC1 protocol. Runtime: 13 minutes.
 
 [Giada Ferrari, presenting the Challenging Samples lab results](https://youtu.be/dy4vxIIZKSM) - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes.
+
+## Data
+All challenging samples have been sequenced and are available in public repositories.
+
+| Organism | Database |
+|------|------|
+| Flustra | See the Flustra sequence (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB89785">Project PRJEB89785</a>) in the ENA database. |
+
+: {tbl-colwidths="[20,80]"}
 
 ## Full Challenging Samples HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bZSQdDmTL5_mZ4yQ&amp;list=PLs-WBtSInuq-vuXxth5WYZsdCOsjeBepz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
