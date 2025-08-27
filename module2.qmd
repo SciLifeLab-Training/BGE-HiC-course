@@ -46,13 +46,20 @@ Sample preparation for herring, krill, moose, reindeer spleen and heart can be f
 [Giada Ferrari, presenting the Challenging Samples lab results](https://youtu.be/dy4vxIIZKSM) - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes.
 
 ## Data
-All challenging samples have been sequenced and are available in public repositories.
+All challenging samples have been sequenced and will be made available in public repositories.
 
-| Organism | Database |
-|------|------|
-| Flustra | See the Flustra sequence (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB89785">Project PRJEB89785</a>) in the ENA database. |
+| Organism | ENA Database Link | Sequence from |
+|------|------| ------|
+| Flustra | Flustra foliacea (Greater horn wrack) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB89785">Project PRJEB89785</a>) | ELIXIR Norway, EBP Norway |
+| Mosquito | Diamesa tonsa (Midge) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96353">Project PRJEB96353</a>)| ELIXIR Norway, EBP Norway |
+| Mosquito | Diamesa hyperborea (Diamesa) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96356">Project PRJEB96356</a>)| ELIXIR Norway, EBP Norway |
+| Algae (slime)| Hydrurus foetidus, genomic and transcriptomic data (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96365">Project PRJEB96365</a>)| University of Oslo |
+| Lichen| Peltigera canina (The Dog lichen) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96347">Project PRJEB96347</a>)| ELIXIR Norway, EBP Norway |
+| Lichen| Peltigera aphthosa (Green dog lichen) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96348">Project PRJEB96348</a>)| ELIXIR Norway, EBP Norway |
+| Sponge | Geodia barretti (Geodia barretti) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96345">Project PRJEB96345</a>)| ELIXIR Norway, EBP Norway |
+| Worm | Meara stichopi ([flatorm]) genome assembly (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96344">Project PRJEB96344</a>)| ELIXIR Norway, EBP Norway |
 
-: {tbl-colwidths="[20,80]"}
+: {tbl-colwidths="[20,60,20]"}
 
 ## Full Challenging Samples HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bZSQdDmTL5_mZ4yQ&amp;list=PLs-WBtSInuq-vuXxth5WYZsdCOsjeBepz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
