@@ -7,6 +7,13 @@
     "text": "In this course stream, Maria Gyftea (SciLifeLab, SE), Eunkyong Choi (SciLifeLab, SE), Laurie Bertrand (Genoscope, FR), Carmela Gissi (UniBari, IT), and Maria Laura Aguilera Gil (CNAG, ES) were led by expert instructor Lily Shiue from Dovetail (Cantata Bio) in the newly-released AssemblyLink protocol.\nFilming was performed by Maria Gyftea and Lily Shiue."
   },
   {
+    "objectID": "module3.html#data",
+    "href": "module3.html#data",
+    "title": "AssemblyLink",
+    "section": "Data",
+    "text": "Data\nAll samples from this course are undergoing troubleshooting."
+  },
+  {
     "objectID": "module3.html#full-assemblylink-hic-playlist",
     "href": "module3.html#full-assemblylink-hic-playlist",
     "title": "AssemblyLink",
@@ -32,7 +39,7 @@
     "href": "module2.html#data",
     "title": "Challenging Samples HiC Course",
     "section": "Data",
-    "text": "Data\nAll challenging samples have been sequenced and will be made available in public repositories.\n\n\n\n\n\n\n\n\nOrganism\nENA Database Link\nSequence from\n\n\n\n\nFlustra\nFlustra foliacea (Greater horn wrack) genome assembly (Project PRJEB89785)\nELIXIR Norway, EBP Norway\n\n\nMosquito\nDiamesa tonsa (Midge) genome assembly (Project PRJEB96353)\nELIXIR Norway, EBP Norway\n\n\nMosquito\nDiamesa hyperborea (Diamesa) genome assembly (Project PRJEB96356)\nELIXIR Norway, EBP Norway\n\n\nAlgae (slime)\nHydrurus foetidus, genomic and transcriptomic data (Project PRJEB96365)\nUniversity of Oslo\n\n\nLichen\nPeltigera canina (The Dog lichen) genome assembly (Project PRJEB96347)\nELIXIR Norway, EBP Norway\n\n\nLichen\nPeltigera aphthosa (Green dog lichen) genome assembly (Project PRJEB96348)\nELIXIR Norway, EBP Norway\n\n\nSponge\nGeodia barretti (Geodia barretti) genome assembly (Project PRJEB96345)\nELIXIR Norway, EBP Norway\n\n\nWorm\nMeara stichopi ([flatorm]) genome assembly (Project PRJEB96344)\nELIXIR Norway, EBP Norway"
+    "text": "Data\nAll challenging samples have been successfully sequenced and will be made available in public repositories.\n\n\n\n\n\n\n\n\nOrganism\nENA Database Link\nSequence from\n\n\n\n\nFlustra\nFlustra foliacea (Greater horn wrack) genome assembly (Project PRJEB89785)\nELIXIR Norway, EBP Norway\n\n\nMosquito\nDiamesa tonsa (Midge) genome assembly (Project PRJEB96353)\nELIXIR Norway, EBP Norway\n\n\nMosquito\nDiamesa hyperborea (Diamesa) genome assembly (Project PRJEB96356)\nELIXIR Norway, EBP Norway\n\n\nAlgae (slime)\nHydrurus foetidus, genomic and transcriptomic data (Project PRJEB96365)\nUniversity of Oslo\n\n\nLichen\nPeltigera canina (The Dog lichen) genome assembly (Project PRJEB96347)\nELIXIR Norway, EBP Norway\n\n\nLichen\nPeltigera aphthosa (Green dog lichen) genome assembly (Project PRJEB96348)\nELIXIR Norway, EBP Norway\n\n\nSponge\nGeodia barretti (Geodia barretti) genome assembly (Project PRJEB96345)\nELIXIR Norway, EBP Norway\n\n\nWorm\nMeara stichopi ([flatorm]) genome assembly (Project PRJEB96344)\nELIXIR Norway, EBP Norway"
   },
   {
     "objectID": "module2.html#full-challenging-samples-hic-playlist",
@@ -96,6 +103,13 @@
     "text": "Introductory Material\nIntroduction and Safety Considerations - Follow Irene and Morten as they describe an overview of how the technique is scheduled, safety considerations, and some background on how the technique is implemented and developed in a production setting.\n\nSample preparation\nFor the introductory group, herring was used for the sample, and was prepared according to the Arima HiC standard input protocol. Additionally, Irene demonstrated low input sample preparation for krill. The following videos demonstrate and discuss how to prepare samples for HiC.\nSample preparation instruction - Tissue weighing, handling tips and grinding with liquid nitrogen. Runtime: 22 minutes.\nSample crosslinking - Crosslinking the samples, and the importance of a homogenous solution. Runtime: 18 minutes.\nLow input sample preparation - The krill samples are crosslinked first, and then tissue grinding with a power masher. The differences between low and standard input protocols are discussed, and the samples chosen for the HiC reactions. Runtime: 13 minutes.\n\n\nEstimating Input\nEstimating input amount - Estimating input for krill and herring samples, and how low input and standard input approaches differ. Runtime: 9 minutes. ** Note: for a demonstration of steps 5-11 including Qubit quantification, see the Challenging Samples module!\nChoosing samples for HiC reactions - How to approach the decision on which input amounts to proceed with. Runtime: 6 minutes.\n\n\nHiC Reactions\nHiC Reactions - Follow along as the krill and herring are processed with the Arima HiC reactions. Runtime: 27 minutes.\n\n\nQC1\nQC1 - Considerations for when to proceed with QC1, and how the behaviour of the sample can indicate genomic differences. Runtime: 18 minutes.\nDiscussion of results & next steps - Interpretation of QC1 results and an overview of the next steps. Runtime: 6 minutes.\nIrene Fabiola Roman Maldonado, presenting the Introductory HiC lab results - The final group discussion of the results, led by Irene. Runtime: 15 minutes."
   },
   {
+    "objectID": "module1.html#data",
+    "href": "module1.html#data",
+    "title": "Introductory HiC Course",
+    "section": "Data",
+    "text": "Data\nAll samples from this course have been successfully sequenced and will be made available in public repositories.\n\n\n\n\n\n\n\n\nOrganism\nENA Database Link\nSequence from\n\n\n\n\nHerring\nClupea harengus (Project PRJEB96454)\nUppsala University\n\n\nKrill\nMeganyctiphanes norvegica (Project PRJEB96454)\nUppsala University"
+  },
+  {
     "objectID": "module1.html#full-introductory-hic-playlist",
     "href": "module1.html#full-introductory-hic-playlist",
     "title": "Introductory HiC Course",
@@ -137,7 +151,7 @@
     "href": "protocols.html#challenging-samples-discussion",
     "title": "Hi-C Knowledge Exchange",
     "section": "Challenging Samples Discussion",
-    "text": "Challenging Samples Discussion\nPrior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes–including with the AssemblyLink kit.\n\n\n\n\n\n\n\n\nOrganisms\nPresented by\nRuntime\n\n\n\n\nPlants and Algae\nKarine Labadie, Genoscope\n16min\n\n\nPlants and Lichens\nIrene Fabiola Roman Maldonado, The Sanger Institute\n16min\n\n\nCoral and Sponge\nBrian Kilburn, Arima\n8.5min\n\n\nJellyfish and Coral\nKarine Labadie, Genoscope\n-\n\n\nMonogyna spp.\nMorten Skage, University of Oslo\n5min\n\n\nFish Blood - AssemblyLink\nMorten Skage, University of Oslo\ncoming soon\n\n\nWorms and Algae - AssemblyLink\nLily Shiue, Cantata Bio\ncoming soon\n\n\n\nMorten Skage, University of Oslo, presents considerations for how to define and approach challenging samples. Runtime: 14 min.",
+    "text": "Challenging Samples Discussion\nPrior to the course, the challenging samples were sent to the participating institutions for processing. Each institution presented their own handling of samples, including nuclei isolation, kits, what organisms they had success with, as well as sample outcomes–including with the AssemblyLink kit.\n\n\n\n\n\n\n\n\nOrganisms\nPresented by\nRuntime\n\n\n\n\nPlants and Algae\nKarine Labadie, Genoscope\n16min\n\n\nPlants and Lichens\nIrene Fabiola Roman Maldonado, The Sanger Institute\n16min\n\n\nCoral and Sponge\nBrian Kilburn, Arima\n8.5min\n\n\nJellyfish and Coral\nKarine Labadie, Genoscope\n13min\n\n\nMonogyna spp.\nMorten Skage, University of Oslo\n5min\n\n\nFish Blood - AssemblyLink\nMorten Skage, University of Oslo\ncoming soon\n\n\nWorms and Algae - AssemblyLink\nLily Shiue, Cantata Bio\ncoming soon\n\n\n\nMorten Skage, University of Oslo, presents considerations for how to define and approach challenging samples. Runtime: 14 min.",
     "crumbs": [
       "Hi-C Knowledge Exchange"
     ]

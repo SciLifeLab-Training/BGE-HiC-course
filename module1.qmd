@@ -45,6 +45,15 @@ For the introductory group, herring was used for the sample, and was prepared ac
 
 [Irene Fabiola Roman Maldonado, presenting the Introductory HiC lab results](https://youtu.be/4RAAfUvEdQw) - The final group discussion of the results, led by Irene. Runtime: 15 minutes.
 
+## Data
+All samples from this course have been successfully sequenced and will be made available in public repositories.
+
+| Organism | ENA Database Link | Sequence from |
+|------|------| ------|
+| Herring | Clupea harengus (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96454">Project PRJEB96454</a>) | Uppsala University |
+| Krill | Meganyctiphanes norvegica (<a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB96454">Project PRJEB96454</a>)| Uppsala University |
+: {tbl-colwidths="[20,60,20]"}
+
 ## Full Introductory HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=L59OXJ1jwzq_idK6&amp;list=PLs-WBtSInuq-lBs6OPy06wAD9jLUwzQAW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

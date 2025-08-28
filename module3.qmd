@@ -56,6 +56,9 @@ Sample preparation for lichens, worms, algae, sponges, and insects can be found 
 
 [Lily Shiue, presenting the AssemblyLink HiC lab results](https://youtu.be/4OYbmdIApWE) - Presentation of the AssemblyLink results to all course participants, including discussion. Runtime: 8 minutes.
 
+## Data
+All samples from this course are undergoing troubleshooting.
+
 ## Full AssemblyLink HiC Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IzjcE1Od_2tLK9LO&amp;list=PLs-WBtSInuq-DjYI8dWV2iAD9WVU4b64K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

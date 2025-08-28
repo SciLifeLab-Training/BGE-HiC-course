@@ -46,7 +46,7 @@ Sample preparation for herring, krill, moose, reindeer spleen and heart can be f
 [Giada Ferrari, presenting the Challenging Samples lab results](https://youtu.be/dy4vxIIZKSM) - Presentation of the Challenging Samples results to all course participants, including discussion. Runtime: 17 minutes.
 
 ## Data
-All challenging samples have been sequenced and will be made available in public repositories.
+All challenging samples have been successfully sequenced and will be made available in public repositories.
 
 | Organism | ENA Database Link | Sequence from |
 |------|------| ------|
