@@ -80,6 +80,6 @@ The video materials from this course are available for reuse under <a href="http
 **Date of last revision:** Aug 31, 2025 <br>
 **Status:** Under development<br>
 **Modification contact:** training.hub@scilifelab.se<br>
-**Version:** v.1-partial
+**Version:** v.1-full
 
 :::
